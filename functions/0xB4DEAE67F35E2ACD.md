@@ -1,0 +1,4 @@
+# MONEY::NETWORK_EARN_NIGHTCLUB_DANCING
+
+## Parameters
+* **INT** amount

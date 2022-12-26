@@ -1,0 +1,4 @@
+# STRUCT
+
+## Summary
+Any structure

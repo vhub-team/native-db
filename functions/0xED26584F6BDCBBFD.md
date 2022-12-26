@@ -1,0 +1,4 @@
+# MONEY::NETWORK_EARN_GANGOPS_PREP_PARTICIPATION
+
+## Parameters
+* **INT** amount

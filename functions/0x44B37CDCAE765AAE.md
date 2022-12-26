@@ -1,0 +1,11 @@
+# NETWORK::NETWORK_CHECK_DATA_MANAGER_SUCCEEDED_FOR_HANDLE
+
+## Summary
+Check to see if the data manager is ready to be queried for a specific player.
+
+## Parameters
+* **INT** cardType
+* **GAMER_HANDLE\*** gamerHandle
+
+## Returns
+* **BOOL**

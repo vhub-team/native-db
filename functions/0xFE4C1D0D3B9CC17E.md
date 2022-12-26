@@ -1,0 +1,13 @@
+# SOCIALCLUB::SC_TRANSITION_NEWS_SHOW_TIMED
+
+## Summary
+Start and show the transition news.  If a news story hasn't been queued, it will queue one.
+moveID - to make requests for scaleform on
+iStoryOnscreenDuration - the amount of time (in ms) to display each story for.  If this value == 0, then the news controller will only show one news item and never transition to another.
+
+## Parameters
+* **SCALEFORM_INDEX** moveID
+* **INT** storyOnscreenDuration
+
+## Returns
+* **BOOL**: True if there are stories to show

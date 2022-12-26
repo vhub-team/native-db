@@ -1,0 +1,4 @@
+# VOID
+
+## Summary
+Just nothing

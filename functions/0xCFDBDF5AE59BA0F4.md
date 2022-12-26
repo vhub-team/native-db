@@ -1,0 +1,4 @@
+# HUD::END_TEXT_COMMAND_ADD_DIRECTLY_TO_PREVIOUS_BRIEFS
+
+## Parameters
+* **BOOL** usesUnderscore

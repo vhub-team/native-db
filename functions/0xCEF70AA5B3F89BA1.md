@@ -1,0 +1,4 @@
+# NETWORK::NETWORK_SESSION_IS_PRIVATE
+
+## Returns
+* **BOOL**

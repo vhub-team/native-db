@@ -1,0 +1,4 @@
+# MONEY::NETWORK_EARN_ARENA_WAR_ASSASSINATE_TARGET
+
+## Parameters
+* **INT** amount

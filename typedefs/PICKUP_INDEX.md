@@ -1,0 +1,1 @@
+# PICKUP_INDEX : INT

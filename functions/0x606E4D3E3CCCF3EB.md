@@ -1,0 +1,4 @@
+# NETWORK::NETWORK_HAVE_ROS_SOCIAL_CLUB_PRIV
+
+## Returns
+* **BOOL**

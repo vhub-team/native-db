@@ -1,0 +1,16 @@
+# PED::CLONE_PED
+
+## Summary
+Creates a new ped by cloning an existing one.
+
+## Parameters
+* **PED_INDEX** pedIndex: The existing ped to clone.
+* **BOOL** registerAsNetworkObject = true: The new object will be created and synced on other machines if a network game is running
+* **BOOL** scriptHostObject = true:
+If true, this object has been created by the host portion of a network script and is vital to that script - it must always exist regardless of who is hosting the script.
+If false, the object has been created by the client portion of a network script and can be removed when the client who created it leaves the script session.
+IncludeHeadBlend:		Clones the head blend data (and creates a link between the two peds for it)
+* **BOOL** linkBlends = true
+
+## Returns
+* **PED_INDEX**
