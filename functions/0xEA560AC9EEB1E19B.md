@@ -1,7 +1,7 @@
 # MONEY::NETWORK_GET_REMAINING_TRANSFER_BALANCE
 
 ## Summary
-Get the amount of remaining cash for transfers.
+Get the amount of remaining cash for transfers
 
 ## Returns
 * **INT**

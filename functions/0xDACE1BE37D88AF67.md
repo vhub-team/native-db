@@ -1,7 +1,7 @@
 # TASK::SET_DRIVE_TASK_DRIVING_STYLE
 
 ## Summary
-Sets the drive tasks driving style.
+Sets the drive tasks driving style
 
 ## Parameters
 * **PED_INDEX** pedIndex

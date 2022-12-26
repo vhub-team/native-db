@@ -1,7 +1,7 @@
 # PLAYER::SPECIAL_ABILITY_FILL_METER
 
 ## Summary
-Fills the player special ability meter.
+Fills the player special ability meter
 
 ## Parameters
 * **PLAYER_INDEX** playerIndex

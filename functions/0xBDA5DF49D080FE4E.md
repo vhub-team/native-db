@@ -1,7 +1,7 @@
 # TASK::TASK_PATROL
 
 ## Summary
-Adds the completed patrol route.
+Adds the completed patrol route
 
 ## Parameters
 * **PED_INDEX** ped

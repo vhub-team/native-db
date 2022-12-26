@@ -1,7 +1,7 @@
 # PED::CAN_PED_RAGDOLL
 
 ## Summary
-Determines if a ped can be set into a rag doll state.
+Determines if a ped can be set into a rag doll state
 
 ## Parameters
 * **PED_INDEX** pedIndex

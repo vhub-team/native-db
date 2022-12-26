@@ -1,7 +1,7 @@
 # OBJECT::IS_OBJECT_PARTIALLY_INSIDE_GARAGE
 
 ## Summary
-Returns TRUE if the entity is partially inside the garage.
+Returns TRUE if the entity is partially inside the garage
 
 ## Parameters
 * **INT** garageHash

@@ -1,7 +1,7 @@
 # MISC::OVERRIDE_FREEZE_FLAGS
 
 ## Summary
-Forces all exterior peds and vehicles to freeze, regardless of player's position.
+Forces all exterior peds and vehicles to freeze, regardless of player's position
 
 ## Parameters
 * **BOOL** override

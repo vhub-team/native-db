@@ -1,7 +1,7 @@
 # STATS::STAT_GET_FLOAT
 
 ## Summary
-Get the value of an Float stat.
+Get the value of an Float stat
 
 ## Parameters
 * **STATSENUM** keyHash

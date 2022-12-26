@@ -1,7 +1,7 @@
 # PED::GET_PED_COMBAT_RANGE
 
 ## Summary
-Gets the current range that the ped will engage the targets during combat.
+Gets the current range that the ped will engage the targets during combat
 
 ## Parameters
 * **PED_INDEX** pedIndex

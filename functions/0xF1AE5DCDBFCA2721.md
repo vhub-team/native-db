@@ -1,7 +1,7 @@
 # STATS::LEADERBOARDS2_READ_BY_PLAFORM
 
 ## Summary
-Starts a leaderboard READ Operation for a certain platform.
+Starts a leaderboard READ Operation for a certain platform
 
 ## Parameters
 * **Leaderboard2ReadData\*** lbData: Leaderboard info for the read.

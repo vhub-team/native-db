@@ -1,7 +1,7 @@
 # AUDIO::PLAY_POLICE_REPORT
 
 ## Summary
-Plays a police report.
+Plays a police report
 
 ## Parameters
 * **STRING** reportName

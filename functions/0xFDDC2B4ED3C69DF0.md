@@ -1,7 +1,7 @@
 # GRAPHICS::DRAW_TV_CHANNEL
 
 ## Summary
-Draws the current TV show to the screen.
+Draws the current TV show to the screen
 
 ## Parameters
 * **FLOAT** centreX:

@@ -1,7 +1,7 @@
 # FIRE::IS_EXPLOSION_IN_AREA
 
 ## Summary
-Checks if an explosion is in a area.
+Checks if an explosion is in a area
 
 ## Parameters
 * **EXPLOSION_TAG** explosionTag

@@ -1,7 +1,7 @@
 # PED::SET_PED_BOUNDS_ORIENTATION
 
 ## Summary
-Lets the ped's mover capsule bounds be re-oriented.
+Lets the ped's mover capsule bounds be re-oriented
 
 ## Parameters
 * **PED_INDEX** pedIndex

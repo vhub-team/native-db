@@ -1,7 +1,7 @@
 # CAM::SET_FOLLOW_VEHICLE_CAM_HIGH_ANGLE_MODE_EVERY_UPDATE
 
 ## Summary
-Overrides the state of the high-angle mode for the active follow vehicle camera for every update.
+Overrides the state of the high-angle mode for the active follow vehicle camera for every update
 
 ## Parameters
 * **BOOL** shouldOverride

@@ -1,7 +1,7 @@
 # CUTSCENE::CAN_USE_MOBILE_PHONE_DURING_CUTSCENE
 
 ## Summary
-Check to see if the mobile phone has been requested to be active during a cutscene.
+Check to see if the mobile phone has been requested to be active during a cutscene
 
 ## Returns
 * **BOOL**

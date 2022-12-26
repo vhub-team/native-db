@@ -1,7 +1,7 @@
 # VEHICLE::GET_VEHICLE_INDIVIDUAL_DOOR_LOCK_STATUS
 
 ## Summary
-Gets the door lock status for given door index.
+Gets the door lock status for given door index
 
 ## Parameters
 * **VEHICLE_INDEX** vehicleIndex

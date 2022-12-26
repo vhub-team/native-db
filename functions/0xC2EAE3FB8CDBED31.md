@@ -1,7 +1,7 @@
 # CAM::ANIMATED_SHAKE_SCRIPT_GLOBAL
 
 ## Summary
-Apply an animated shake globally to the rendered result of all active scripted cameras.
+Apply an animated shake globally to the rendered result of all active scripted cameras
 
 ## Parameters
 * **STRING** animDictionary: The name of the animation dictionary containing the animation to be rendered as a shake.

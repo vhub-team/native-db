@@ -1,7 +1,7 @@
 # PED::CLONE_PED
 
 ## Summary
-Creates a new ped by cloning an existing one.
+Creates a new ped by cloning an existing one
 
 ## Parameters
 * **PED_INDEX** pedIndex: The existing ped to clone.

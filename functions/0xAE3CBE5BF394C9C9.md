@@ -1,7 +1,7 @@
 # ENTITY::DELETE_ENTITY
 
 ## Summary
-Deletes an entity instantly from the world.
+Deletes an entity instantly from the world
 
 ## Parameters
 * **ENTITY_INDEX\*** entityIndex

@@ -1,7 +1,7 @@
 # MONEY::NETWORK_GET_CAN_TRANSFER_CASH
 
 ## Summary
-Retrieve amount of PVC transferred out by a player to other players in 1 day.
+Retrieve amount of PVC transferred out by a player to other players in 1 day
 
 ## Parameters
 * **INT** amount

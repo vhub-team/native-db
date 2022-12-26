@@ -1,7 +1,7 @@
 # SOCIALCLUB::SC_LICENSEPLATE_CHECK_STRING
 
 ## Summary
-Submit the given string to license plate checking.
+Submit the given string to license plate checking
 
 ## Parameters
 * **STRING** textString: String to verify

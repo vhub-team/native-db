@@ -1,7 +1,7 @@
 # PED::CLEAR_PED_DAMAGE_DECAL_BY_ZONE
 
 ## Summary
-Clears the Damage  damage that has been applied to the specified ped on the specified zone.
+Clears the Damage  damage that has been applied to the specified ped on the specified zone
 
 ## Parameters
 * **PED_INDEX** pedIndex: The index of the ped to clear the decoration decal from.

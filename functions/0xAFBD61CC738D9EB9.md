@@ -1,7 +1,7 @@
 # ENTITY::GET_ENTITY_ROTATION
 
 ## Summary
-Gets the rotation of an entity.
+Gets the rotation of an entity
 
 ## Parameters
 * **ENTITY_INDEX** entityIndex

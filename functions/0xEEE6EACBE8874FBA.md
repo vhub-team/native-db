@@ -1,7 +1,7 @@
 # NETWORK::NETWORK_CLAN_PLAYER_GET_DESC
 
 ## Summary
-Retrieve information about the player clan description.
+Retrieve information about the player clan description
 
 ## Parameters
 * **NETWORK_CLAN_DESC\*** memberInfo

@@ -1,7 +1,7 @@
 # VEHICLE::SET_CAR_BOOT_OPEN
 
 ## Summary
-Opens a car boot.
+Opens a car boot
 
 ## Parameters
 * **VEHICLE_INDEX** vehicleIndex

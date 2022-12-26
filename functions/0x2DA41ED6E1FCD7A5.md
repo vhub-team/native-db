@@ -1,7 +1,7 @@
 # NETWORK::NETWORK_GET_KILLER_OF_PLAYER
 
 ## Summary
-Returns the player that has killed the other player last.
+Returns the player that has killed the other player last
 
 ## Parameters
 * **PLAYER_INDEX** plr

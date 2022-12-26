@@ -1,7 +1,7 @@
 # OBJECT::GET_RAYFIRE_MAP_OBJECT_ANIM_PHASE
 
 ## Summary
-Checks that the quiered rayfire object exists.
+Checks that the quiered rayfire object exists
 
 ## Parameters
 * **RAYFIRE_INDEX** rayFireObject

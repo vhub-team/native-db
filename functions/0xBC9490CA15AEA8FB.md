@@ -2,7 +2,7 @@
 
 ## Summary
 This sets a bool value in the wanted system of the player ped that will center the wanted position to the players position
-This value gets reest every frame so this function must be called each frame.
+This value gets reest every frame so this function must be called each frame
 
 ## Parameters
 * **PLAYER_INDEX** playerIndex

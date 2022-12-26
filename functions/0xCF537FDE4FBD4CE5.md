@@ -1,7 +1,7 @@
 # GRAPHICS::DRAW_SCALEFORM_MOVIE_FULLSCREEN_MASKED
 
 ## Summary
-Renders two movies with masking between.
+Renders two movies with masking between
 
 ## Parameters
 * **SCALEFORM_INDEX** foregroundMovieId

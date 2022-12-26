@@ -1,7 +1,7 @@
 # VEHICLE::SET_VEHICLE_ENGINE_HEALTH
 
 ## Summary
-Set engine health for a vehicle.
+Set engine health for a vehicle
 
 ## Parameters
 * **VEHICLE_INDEX** vehicleIndex

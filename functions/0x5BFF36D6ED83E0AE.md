@@ -1,7 +1,7 @@
 # HUD::GET_PAUSE_MENU_POSITION
 
 ## Summary
-Retrieves the position of the pause menu as 0 to 1 decimal percentage values.
+Retrieves the position of the pause menu as 0 to 1 decimal percentage values
 
 ## Returns
 * **VECTOR**: Vector position of the pause menu movie

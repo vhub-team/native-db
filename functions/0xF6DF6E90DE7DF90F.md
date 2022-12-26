@@ -1,7 +1,7 @@
 # OBJECT::SET_OBJECT_PHYSICS_PARAMS
 
 ## Summary
-Set physics parameters on this instance of an object.
+Set physics parameters on this instance of an object
 
 ## Parameters
 * **OBJECT_INDEX** objectIndex

@@ -1,7 +1,7 @@
 # MISC::CLEAR_AREA_OF_OBJECTS
 
 ## Summary
-Clears all non-mission objects within the defined sphere.
+Clears all non-mission objects within the defined sphere
 
 ## Parameters
 * **FLOAT** centreCoorsX

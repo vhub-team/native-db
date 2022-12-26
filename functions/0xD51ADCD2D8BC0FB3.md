@@ -1,7 +1,7 @@
 # CAM::SET_GAMEPLAY_COORD_HINT
 
 ## Summary
-Sets the gameplay to hint a coord.
+Sets the gameplay to hint a coord
 
 ## Parameters
 * **FLOAT** coordX

@@ -1,7 +1,7 @@
 # HUD::GET_FAKE_SPECTATOR_MODE
 
 ## Summary
-Returns weather or not we are in faked spectator mode.
+Returns weather or not we are in faked spectator mode
 
 ## Returns
 * **BOOL**

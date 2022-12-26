@@ -1,7 +1,7 @@
 # EVENT::REMOVE_ALL_SHOCKING_EVENTS
 
 ## Summary
-Remove all shocking events (some code-created events might come back immediately, if the conditions for triggering them are fulfilled).
+Remove all shocking events (some code-created events might come back immediately, if the conditions for triggering them are fulfilled)
 
 ## Parameters
 * **BOOL** scriptCreatedOnly:

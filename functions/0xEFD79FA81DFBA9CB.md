@@ -1,7 +1,7 @@
 # PLAYER::SET_PLAYER_FALL_DISTANCE_TO_TRIGGER_RAGDOLL_OVERRIDE
 
 ## Summary
-Allows the script to modify the minimum fall height that causes the ped to trigger ragdoll.
+Allows the script to modify the minimum fall height that causes the ped to trigger ragdoll
 
 ## Parameters
 * **PLAYER_INDEX** playerIndex

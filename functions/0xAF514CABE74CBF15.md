@@ -1,7 +1,7 @@
 # VEHICLE::REQUEST_VEHICLE_RECORDING
 
 ## Summary
-Request a vehicle recording file.
+Request a vehicle recording file
 
 ## Parameters
 * **INT** fileNumber

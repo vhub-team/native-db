@@ -1,7 +1,7 @@
 # CAM::GET_FINAL_RENDERED_CAM_ROT
 
 ## Summary
-Gets the rotation of the final rendered cam.
+Gets the rotation of the final rendered cam
 
 ## Parameters
 * **EULER_ROT_ORDER** rotOrder = 2

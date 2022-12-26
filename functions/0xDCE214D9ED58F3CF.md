@@ -1,7 +1,7 @@
 # CAM::SHAKE_CINEMATIC_CAM
 
 ## Summary
-Apply a predefined shake to the rendered result of the active cinematic camera.
+Apply a predefined shake to the rendered result of the active cinematic camera
 
 ## Parameters
 * **STRING** shakeName

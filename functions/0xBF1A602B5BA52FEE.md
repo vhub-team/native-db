@@ -1,7 +1,7 @@
 # PATHFIND::SET_ROADS_IN_AREA
 
 ## Summary
-Sets the road node active state in the given area.
+Sets the road node active state in the given area
 
 ## Parameters
 * **FLOAT** minCoorsX

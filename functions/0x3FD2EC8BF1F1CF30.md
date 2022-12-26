@@ -1,7 +1,7 @@
 # EVENT::SUPPRESS_SHOCKING_EVENT_TYPE_NEXT_FRAME
 
 ## Summary
-Prevents shocking events of a certain type from being added to the world next frame.
+Prevents shocking events of a certain type from being added to the world next frame
 
 ## Parameters
 * **SHOCKING_EVENT_LEVEL** eventShockingLevel

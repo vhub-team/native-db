@@ -1,7 +1,7 @@
 # PED::SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT
 
 ## Summary
-Control how the ped leaves their scenario when they get their next task.
+Control how the ped leaves their scenario when they get their next task
 
 ## Parameters
 * **PED_INDEX** pedIndex

@@ -1,7 +1,7 @@
 # PAD::CLEAR_CONTROL_SHAKE_SUPPRESSED_ID
 
 ## Summary
-Clears a supress id passed to SET_CONTROL_SHAKE_SUPPRESSED_ID.
+Clears a supress id passed to SET_CONTROL_SHAKE_SUPPRESSED_ID
 
 ## Parameters
 * **CONTROL_TYPE** control

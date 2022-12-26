@@ -1,7 +1,7 @@
 # OBJECT::GET_STATE_OF_CLOSEST_DOOR_OF_TYPE
 
 ## Summary
-Gets the state of the closest door type.
+Gets the state of the closest door type
 
 ## Parameters
 * **MODEL_NAMES** objectModelHashKey

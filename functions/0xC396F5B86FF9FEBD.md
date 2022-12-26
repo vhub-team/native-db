@@ -1,7 +1,7 @@
 # PED::SET_PED_LEG_IK_MODE
 
 ## Summary
-Sets the allowed IK mode for a ped.
+Sets the allowed IK mode for a ped
 
 ## Parameters
 * **PED_INDEX** pedIndex

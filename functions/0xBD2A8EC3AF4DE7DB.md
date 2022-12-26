@@ -1,7 +1,7 @@
 # TASK::TASK_USE_MOBILE_PHONE
 
 ## Summary
-Tells the ped to use a mobile phone.
+Tells the ped to use a mobile phone
 
 ## Parameters
 * **PED_INDEX** pedIndex

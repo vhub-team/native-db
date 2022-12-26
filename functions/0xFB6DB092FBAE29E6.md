@@ -1,7 +1,7 @@
 # MONEY::NETWORK_EARN_FROM_AMBIENT_JOB
 
 ## Summary
-Player earned cash from ambient job.
+Player earned cash from ambient job
 
 ## Parameters
 * **INT** amount

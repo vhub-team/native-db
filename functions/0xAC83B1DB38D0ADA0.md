@@ -1,7 +1,7 @@
 # TASK::TASK_HELI_CHASE
 
 ## Summary
-The ped will chase the target with their heli.
+The ped will chase the target with their heli
 
 ## Parameters
 * **PED_INDEX** pedIndex

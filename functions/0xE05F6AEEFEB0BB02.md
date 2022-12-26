@@ -1,7 +1,7 @@
 # OBJECT::DAMAGE_OBJECT_FRAGMENT_CHILD
 
 ## Summary
-Either switch a part of an object to its damaged version, or destroy it if it's tuned to "disappear when dead".
+Either switch a part of an object to its damaged version, or destroy it if it's tuned to "disappear when dead"
 
 ## Parameters
 * **OBJECT_INDEX** objectIndex

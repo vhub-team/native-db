@@ -1,7 +1,7 @@
 # FIRE::GET_OWNER_OF_EXPLOSION_IN_ANGLED_AREA
 
 ## Summary
-Gets the owner of an explosion in an angled area.
+Gets the owner of an explosion in an angled area
 
 ## Parameters
 * **EXPLOSION_TAG** explosionTag

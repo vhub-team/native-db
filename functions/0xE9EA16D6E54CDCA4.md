@@ -1,7 +1,7 @@
 # CAM::SET_IN_VEHICLE_CAM_STATE_THIS_UPDATE
 
 ## Summary
-Sets the camera exit/enter state for vehicles which defines if the follow vehicle or follow ped camera runs.
+Sets the camera exit/enter state for vehicles which defines if the follow vehicle or follow ped camera runs
 
 ## Parameters
 * **VEHICLE_INDEX** vehicle: _INDEX Vehicle - Doesn't need to be valid for the CAM_OUTSIDE_VEHICLE state.

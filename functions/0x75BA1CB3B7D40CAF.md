@@ -1,7 +1,7 @@
 # PED::REQUEST_PED_USE_SMALL_BBOX_VISIBILITY_TRACKING
 
 ## Summary
-When set to true visibility tracking will use a smaller (head and shoulder only) bounding box.
+When set to true visibility tracking will use a smaller (head and shoulder only) bounding box
 
 ## Parameters
 * **PED_INDEX** ped

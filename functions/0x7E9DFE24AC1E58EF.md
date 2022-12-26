@@ -1,7 +1,7 @@
 # PED::IS_PED_SHOOTING_IN_AREA
 
 ## Summary
-Checks that a ped is shooting in an area.
+Checks that a ped is shooting in an area
 
 ## Parameters
 * **PED_INDEX** pedIndex

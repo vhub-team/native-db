@@ -1,7 +1,7 @@
 # WEAPON::SET_FLASH_LIGHT_FADE_DISTANCE
 
 ## Summary
-Set the distance at which flashlights are no longer drawn.
+Set the distance at which flashlights are no longer drawn
 
 ## Parameters
 * **FLOAT** distance:

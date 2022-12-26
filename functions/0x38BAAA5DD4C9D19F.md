@@ -1,7 +1,7 @@
 # STATS::SET_PROFILE_SETTING_CREATOR_DM_DONE
 
 ## Summary
-Call this when the player is publishing a DM in the creator.
+Call this when the player is publishing a DM in the creator
 
 ## Parameters
 * **INT** newValue

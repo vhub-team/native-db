@@ -1,7 +1,7 @@
 # TASK::SET_TASK_VEHICLE_CHASE_IDEAL_PURSUIT_DISTANCE
 
 ## Summary
-Sets the ideal pursuit distance when chasing a vehicle.
+Sets the ideal pursuit distance when chasing a vehicle
 
 ## Parameters
 * **PED_INDEX** pedIndex

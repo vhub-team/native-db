@@ -1,7 +1,7 @@
 # OBJECT::SET_CUTSCENES_WEAPON_FLASHLIGHT_ON_THIS_FRAME
 
 ## Summary
-Forces on the flashlight of a weapon object for this frame during cutscenes.
+Forces on the flashlight of a weapon object for this frame during cutscenes
 
 ## Parameters
 * **OBJECT_INDEX** objectIndex

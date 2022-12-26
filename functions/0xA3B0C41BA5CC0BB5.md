@@ -1,7 +1,7 @@
 # AUDIO::STOP_SOUND
 
 ## Summary
-Stops a playing sound by its sound id.
+Stops a playing sound by its sound id
 
 ## Parameters
 * **INT** soundId

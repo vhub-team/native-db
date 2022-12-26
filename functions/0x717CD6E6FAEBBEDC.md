@@ -1,7 +1,7 @@
 # STREAMING::SET_GAME_PAUSES_FOR_STREAMING
 
 ## Summary
-This should only be called by the end credits script.
+This should only be called by the end credits script
 
 ## Parameters
 * **BOOL** allowPause

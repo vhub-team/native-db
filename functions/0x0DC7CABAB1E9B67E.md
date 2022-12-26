@@ -1,7 +1,7 @@
 # ENTITY::SET_ENTITY_LOAD_COLLISION_FLAG
 
 ## Summary
-Sets the collision around the entity to load.
+Sets the collision around the entity to load
 
 ## Parameters
 * **ENTITY_INDEX** entityIndex

@@ -1,7 +1,7 @@
 # WEAPON::GET_WEAPON_OBJECT_FROM_PED
 
 ## Summary
-Returns the weapon object for the current equipped ped weapon and detachs it from the ped.
+Returns the weapon object for the current equipped ped weapon and detachs it from the ped
 
 ## Parameters
 * **PED_INDEX** pedIndex

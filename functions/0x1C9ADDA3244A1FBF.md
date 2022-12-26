@@ -1,7 +1,7 @@
 # CUTSCENE::START_CUTSCENE_AT_COORDS
 
 ## Summary
-Starts a seamless cut scene at the given coords.
+Starts a seamless cut scene at the given coords
 
 ## Parameters
 * **FLOAT** posX

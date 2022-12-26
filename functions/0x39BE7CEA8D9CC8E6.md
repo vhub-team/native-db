@@ -1,7 +1,7 @@
 # NETSHOPPING::NET_GAMESERVER_CHECKOUT_START
 
 ## Summary
-Start the checkout of all items pending to be paid for.
+Start the checkout of all items pending to be paid for
 
 ## Parameters
 * **INT** transactionId

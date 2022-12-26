@@ -1,7 +1,7 @@
 # STREAMING::REQUEST_ANIM_SET
 
 ## Summary
-Request streaming to load an animation set .
+Request streaming to load an animation set
 
 ## Parameters
 * **STRING** animSetName

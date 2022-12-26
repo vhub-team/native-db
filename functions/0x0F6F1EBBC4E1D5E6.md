@@ -1,7 +1,7 @@
 # SCRIPT::BG_DOES_LAUNCH_PARAM_EXIST
 
 ## Summary
-Returns true if he param exists for the script.
+Returns true if he param exists for the script
 
 ## Parameters
 * **INT** bgScriptId

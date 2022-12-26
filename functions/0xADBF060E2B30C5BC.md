@@ -1,7 +1,7 @@
 # HUD::HAS_THIS_ADDITIONAL_TEXT_LOADED
 
 ## Summary
-Checks that the text block for the slot has loaded.
+Checks that the text block for the slot has loaded
 
 ## Parameters
 * **STRING** textBlockName

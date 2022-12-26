@@ -1,7 +1,7 @@
 # PHYSICS::SET_DISABLE_FRAG_DAMAGE
 
 ## Summary
-Prevent a specific prop from damaging, or, allow a specific prop to break when all other of its type cannot.
+Prevent a specific prop from damaging, or, allow a specific prop to break when all other of its type cannot
 
 ## Parameters
 * **ENTITY_INDEX** entityId:

@@ -1,7 +1,7 @@
 # PLAYER::IS_PLAYER_FREE_FOR_AMBIENT_TASK
 
 ## Summary
-Returns TRUE if the player is currently not in combat, climbing, jumping or firing a gun.
+Returns TRUE if the player is currently not in combat, climbing, jumping or firing a gun
 
 ## Parameters
 * **PLAYER_INDEX** playerIndex

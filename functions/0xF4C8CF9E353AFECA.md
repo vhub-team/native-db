@@ -1,7 +1,7 @@
 # CAM::SHAKE_SCRIPT_GLOBAL
 
 ## Summary
-Apply a predefined shake globally to the rendered result of all active scripted cameras.
+Apply a predefined shake globally to the rendered result of all active scripted cameras
 
 ## Parameters
 * **STRING** shakeName

@@ -1,7 +1,7 @@
 # TASK::SET_SCENARIO_TYPE_ENABLED
 
 ## Summary
-Disable a particular scenario type.
+Disable a particular scenario type
 
 ## Parameters
 * **STRING** scenarioTypeName: Is the name of the scenario type, such as "WORLD_HUMAN_LEANING".

@@ -1,7 +1,7 @@
 # TASK::GET_NAVMESH_ROUTE_DISTANCE_REMAINING
 
 ## Summary
-Query how much distance is remaining on a ped's navmesh route.
+Query how much distance is remaining on a ped's navmesh route
 
 ## Parameters
 * **PED_INDEX** pedIndex

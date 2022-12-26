@@ -1,7 +1,7 @@
 # GRAPHICS::DRAW_DEBUG_LINE
 
 ## Summary
-Draws a debug line bewteen the 2 vectors.
+Draws a debug line bewteen the 2 vectors
 
 ## Parameters
 * **FLOAT** coorsFirstX

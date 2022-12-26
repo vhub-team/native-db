@@ -1,7 +1,7 @@
 # NETWORK::NETWORK_CLAN_JOIN
 
 ## Summary
-Join a open clan.
+Join a open clan
 
 ## Parameters
 * **INT** clanId

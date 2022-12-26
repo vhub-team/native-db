@@ -1,7 +1,7 @@
 # VEHICLE::SET_VEHICLE_DOOR_CONTROL
 
 ## Summary
-Sets a vehicles door to a new state.
+Sets a vehicles door to a new state
 
 ## Parameters
 * **VEHICLE_INDEX** vehicleIndex

@@ -1,7 +1,7 @@
 # VEHICLE::SET_VEHICLE_BODY_HEALTH
 
 ## Summary
-Set body health for a vehicle.
+Set body health for a vehicle
 
 ## Parameters
 * **VEHICLE_INDEX** vehicleIndex

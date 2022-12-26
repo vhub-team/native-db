@@ -1,7 +1,7 @@
 # MISC::SET_BIT
 
 ## Summary
-Sets the bit at the index (BitToSetIndex) of the integer (IntToModify) passed.
+Sets the bit at the index (BitToSetIndex) of the integer (IntToModify) passed
 
 ## Parameters
 * **INT\*** variable

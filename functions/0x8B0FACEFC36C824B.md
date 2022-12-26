@@ -1,7 +1,7 @@
 # STATS::STAT_GET_DATE
 
 ## Summary
-Get the value of an Date stat.
+Get the value of an Date stat
 
 ## Parameters
 * **STATSENUM** keyHash

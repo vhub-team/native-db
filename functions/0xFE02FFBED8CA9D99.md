@@ -1,7 +1,7 @@
 # AUDIO::REQUEST_AMBIENT_AUDIO_BANK
 
 ## Summary
-Requests and checks that a ambient audio bank has loaded.
+Requests and checks that a ambient audio bank has loaded
 
 ## Parameters
 * **STRING** bankName

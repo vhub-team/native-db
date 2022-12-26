@@ -1,7 +1,7 @@
 # PAD::IS_CONTROL_ENABLED
 
 ## Summary
-Return true if the control is disabled.
+Return true if the control is disabled
 
 ## Parameters
 * **CONTROL_TYPE** control

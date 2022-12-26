@@ -1,7 +1,7 @@
 # INTERIOR::IS_INTERIOR_SCENE
 
 ## Summary
-Chscks if the game is in an interior.
+Chscks if the game is in an interior
 
 ## Returns
 * **BOOL**

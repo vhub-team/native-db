@@ -1,7 +1,7 @@
 # CAM::SET_GAMEPLAY_HINT_CAMERA_BLEND_TO_FOLLOW_PED_MEDIUM_VIEW_MODE
 
 ## Summary
-Allows an active follow-ped camera to be blended into the medium third-person view mode based upon the hint blend level, which should ensure consistent hint framing.
+Allows an active follow-ped camera to be blended into the medium third-person view mode based upon the hint blend level, which should ensure consistent hint framing
 
 ## Parameters
 * **BOOL** state

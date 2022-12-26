@@ -1,7 +1,7 @@
 # CAM::CREATE_CAMERA
 
 ## Summary
-Create a camera of a given name.
+Create a camera of a given name
 
 ## Parameters
 * **CAMERA_TYPE** camera = 26379945

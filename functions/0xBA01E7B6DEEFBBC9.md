@@ -1,7 +1,7 @@
 # CUTSCENE::SET_CUTSCENE_PED_COMPONENT_VARIATION
 
 ## Summary
-Sets a request to change the component variation, only valid for a single frame.
+Sets a request to change the component variation, only valid for a single frame
 
 ## Parameters
 * **STRING** sceneHandle

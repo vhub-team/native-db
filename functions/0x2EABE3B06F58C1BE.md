@@ -1,7 +1,7 @@
 # PATHFIND::GET_CLOSEST_MAJOR_VEHICLE_NODE
 
 ## Summary
-WIill return if can the closest vehicle node even if switched off, to a coord.
+WIill return if can the closest vehicle node even if switched off, to a coord
 
 ## Parameters
 * **FLOAT** coorsX

@@ -1,7 +1,7 @@
 # STATS::STAT_SET_DATE
 
 ## Summary
-Set the value of an Date stat.
+Set the value of an Date stat
 
 ## Parameters
 * **STATSENUM** keyHash

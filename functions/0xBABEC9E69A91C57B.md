@@ -1,7 +1,7 @@
 # NETWORK::NETWORK_SET_VOICE_ACTIVE
 
 ## Summary
-Applies to all chat (lobby / in game).
+Applies to all chat (lobby / in game)
 
 ## Parameters
 * **BOOL** isVoiceActive
