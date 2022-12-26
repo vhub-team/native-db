@@ -1,7 +1,7 @@
 # TASK::GET_PATROL_TASK_INFO
 
 ## Summary
-Will get info from peds patrol task about the route. More info
+Will get info from peds patrol task about the route
 
 ## Parameters
 * **PED_INDEX** ped

@@ -1,7 +1,7 @@
 # CAM::SET_CAM_PARAMS
 
 ## Summary
-Sets the camera's position, rotation and field of view. More info
+Sets the camera's position, rotation and field of view
 
 ## Parameters
 * **CAMERA_INDEX** camera

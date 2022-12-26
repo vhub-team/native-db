@@ -1,7 +1,7 @@
 # GRAPHICS::RELEASE_BINK_MOVIE
 
 ## Summary
-Frees the memory allocated to the movie. More info
+Frees the memory allocated to the movie
 
 ## Parameters
 * **BINK_MOVIE_ID** movieId
