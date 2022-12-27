@@ -1,0 +1,6 @@
+# STRUCT_TRANSITION_STRING_EVENT
+
+## Fields
+* **GAMER_HANDLE** g
+* **INT** p
+* **TEXT_LABEL_31** p

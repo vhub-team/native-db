@@ -1,0 +1,4 @@
+# sInteriorGroupNode
+
+## Fields
+* **INT** n

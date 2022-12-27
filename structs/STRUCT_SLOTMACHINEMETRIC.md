@@ -1,0 +1,5 @@
+# STRUCT_SLOTMACHINEMETRIC
+
+## Fields
+* **STRUCT_CASINOMETRIC** c
+* **INT** m

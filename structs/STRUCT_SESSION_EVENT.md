@@ -1,0 +1,6 @@
+# STRUCT_SESSION_EVENT
+
+## Fields
+* **SESSION_EVENT_TYPE** n
+* **INT** e
+* **GAMER_HANDLE** g

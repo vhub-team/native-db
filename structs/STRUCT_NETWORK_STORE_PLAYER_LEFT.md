@@ -1,0 +1,5 @@
+# STRUCT_NETWORK_STORE_PLAYER_LEFT
+
+## Fields
+* **TEXT_LABEL_31** g
+* **GAMER_HANDLE** g

@@ -1,0 +1,47 @@
+# STRUCT_CASINO_STORY_MISSION_ENDED
+
+## Fields
+* **INT** m
+* **INT** s
+* **INT** p
+* **INT** k
+* **INT** d
+* **INT** c
+* **INT** c
+* **INT** c
+* **INT** m
+* **INT** d
+* **INT** f
+* **INT** m
+* **INT** t
+* **INT** f
+* **INT** u
+* **BOOL** i
+* **BOOL** i
+* **BOOL** l
+* **BOOL** s
+* **INT** p
+* **INT** x
+* **INT** s
+* **INT** r
+* **INT** c
+* **INT** r
+* **INT** j
+* **BOOL** u
+* **INT** h
+* **BOOL** c
+* **BOOL** p
+* **BOOL** f
+* **BOOL** f
+* **INT** b
+* **INT** b
+* **INT** b
+* **INT** f
+* **INT** m
+* **INT** m
+* **BOOL** o
+* **BOOL** o
+* **BOOL** o
+* **INT** h
+* **INT** r
+* **BOOL** l

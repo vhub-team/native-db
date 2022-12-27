@@ -1,0 +1,4 @@
+# STRUCT_NETWORK_SPECTATE_LOCAL
+
+## Fields
+* **GAMER_HANDLE** g

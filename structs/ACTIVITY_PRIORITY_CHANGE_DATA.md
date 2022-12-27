@@ -1,0 +1,5 @@
+# ACTIVITY_PRIORITY_CHANGE_DATA
+
+## Fields
+* **STRING[128]** a: STRING[MAX_PRIORITISED_ACTIVITIES]
+* **INT[128]** a: Value range -128 to 128, higher number means higher priority. INT[MAX_PRIORITISED_ACTIVITIES]

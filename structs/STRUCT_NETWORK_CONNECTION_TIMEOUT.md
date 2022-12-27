@@ -1,0 +1,4 @@
+# STRUCT_NETWORK_CONNECTION_TIMEOUT
+
+## Fields
+* **INT** p

@@ -1,0 +1,8 @@
+# STRUCT_TRANSITION_GAMER_INSTRUCTION
+
+## Fields
+* **GAMER_HANDLE** f
+* **GAMER_HANDLE** t
+* **TEXT_LABEL_63** g
+* **INT** i
+* **INT** i

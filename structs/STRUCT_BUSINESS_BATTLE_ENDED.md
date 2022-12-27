@@ -1,0 +1,39 @@
+# STRUCT_BUSINESS_BATTLE_ENDED
+
+## Fields
+* **INT** m = -1
+* **INT** m = -1
+* **INT** b = -1: BossId
+* **INT** b = -1: BossId
+* **INT** m = -1: MatchId
+* **INT** m = -1: MatchId
+* **INT** p = -1: Whether  or not player participated
+* **INT** t = -1: Time work started
+* **INT** t = -1: Time work ended
+* **INT** w = -1: won/lost
+* **INT** e = -1: Reason for script ending - timer ran out, left session, etc
+* **INT** c = -1: Cash Earned.
+* **INT** r = -1: RP Earned.
+* **INT** b = -1: Boss's killed
+* **INT** g = -1: Goons killed
+* **INT** t = -1
+* **INT** l = -1: Whether  or not work was launched by this Boss
+* **INT** s = -1
+* **INT** s = -1
+* **INT** p = -1
+* **INT** t = -1
+* **INT** t = -1
+* **INT** p = -1
+* **INT** b = -1
+* **INT** a = -1
+* **INT** p = -1
+* **INT** p = -1
+* **INT** e = -1
+* **BOOL** o = false
+* **INT** o = -1
+* **INT** d = -1
+* **INT** c = -1
+* **INT** e = -1
+* **INT** e = -1
+* **INT** e = -1
+* **BOOL** i = false

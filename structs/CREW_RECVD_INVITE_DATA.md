@@ -1,0 +1,6 @@
+# CREW_RECVD_INVITE_DATA
+
+## Fields
+* **NETWORK_CLAN_DESC** c
+* **STRING** g
+* **STRING** m

@@ -1,0 +1,4 @@
+# GAMERS_HANDLES
+
+## Fields
+* **GAMER_HANDLE** g

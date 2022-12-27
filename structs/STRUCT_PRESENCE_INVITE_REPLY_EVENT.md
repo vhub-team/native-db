@@ -1,0 +1,9 @@
+# STRUCT_PRESENCE_INVITE_REPLY_EVENT
+
+## Fields
+* **GAMER_HANDLE** i
+* **INVITE_STATUS** n
+* **INT** c
+* **TEXT_LABEL_15** c
+* **BOOL** d
+* **BOOL** d

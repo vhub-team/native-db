@@ -1,0 +1,6 @@
+# STRUCT_THREECARDPOKERMETRIC
+
+## Fields
+* **STRUCT_CASINOMETRIC** c
+* **BOOL** p
+* **INT** o

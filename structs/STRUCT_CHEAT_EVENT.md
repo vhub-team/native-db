@@ -1,0 +1,4 @@
+# STRUCT_CHEAT_EVENT
+
+## Fields
+* **CHEAT_EVENT_TYPES** c

@@ -1,0 +1,6 @@
+# STRUCT_TRANSITION_EVENT
+
+## Fields
+* **TRANSITION_EVENT_TYPE** n
+* **INT** e
+* **GAMER_HANDLE** g

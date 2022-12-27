@@ -1,0 +1,5 @@
+# STRUCT_NETWORK_TEXT_MESSAGE
+
+## Fields
+* **TEXT_LABEL_63** t
+* **GAMER_HANDLE** f

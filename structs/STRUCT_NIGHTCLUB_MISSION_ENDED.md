@@ -1,0 +1,45 @@
+# STRUCT_NIGHTCLUB_MISSION_ENDED
+
+## Fields
+* **INT** m = -1
+* **INT** m = -1
+* **INT** m = -1
+* **INT** m = -1
+* **INT** b = -1
+* **INT** b = -1
+* **INT** p = -1
+* **INT** p = -1
+* **INT** t = -1
+* **INT** t = -1
+* **INT** w = -1
+* **INT** e = -1
+* **INT** c = -1
+* **INT** r = -1
+* **INT** t = -1
+* **INT** i = -1
+* **INT** d = -1
+* **INT** l = -1
+* **INT** t = -1
+* **INT** p = -1
+* **INT** l = -1
+* **INT** i = -1
+* **INT** i = -1
+* **INT** b = -1
+* **INT** g = -1
+* **INT** s = -1
+* **INT** s = -1
+* **INT** p = -1
+* **BOOL** o = false
+* **INT** o = -1
+* **INT** o = -1
+* **BOOL** o = false
+* **INT** q = -1
+* **INT** b = -1
+* **INT** a = -1
+* **INT** c = -1
+* **INT** e = -1
+* **INT** a = -1
+* **INT** d = -1
+* **INT** p = 0
+* **INT** p = 0
+* **INT** l = 0

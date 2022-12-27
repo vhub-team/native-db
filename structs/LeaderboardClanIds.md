@@ -1,0 +1,4 @@
+# LeaderboardClanIds
+
+## Fields
+* **INT** c
