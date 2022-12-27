@@ -1,7 +1,7 @@
 # WEAPON_TYPE
 
 ## Summary
-Manually added, not full
+This enum is not fully researched yet
 
 ## Values
 * WEAPONTYPE_INVALID

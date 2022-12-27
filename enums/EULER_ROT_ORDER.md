@@ -1,12 +1,12 @@
 # EULER_ROT_ORDER
 
 ## Summary
-Values are guessed
+Represents euler rotations apply order
 
 ## Values
 * EULER_XYZ
-* EULER_XZY: Guessed
+* EULER_XZY
 * EULER_YXZ
-* EULER_YZX: Guessed
-* EULER_ZXY: Guessed
-* EULER_ZYX: Guessed
+* EULER_YZX
+* EULER_ZXY
+* EULER_ZYX

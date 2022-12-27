@@ -1,7 +1,7 @@
 # PED_BONETAG
 
 ## Summary
-Manually added, not full
+This enum is not fully researched yet
 
 ## Values
 * BONETAG_HEAD = 31086

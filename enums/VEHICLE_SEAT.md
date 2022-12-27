@@ -1,7 +1,7 @@
 # VEHICLE_SEAT
 
 ## Summary
-Manually added, not full
+This enum is not fully researched yet
 
 ## Values
 * VS_ANY_PASSENGER = -2
