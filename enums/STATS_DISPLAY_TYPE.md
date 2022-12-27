@@ -11,8 +11,7 @@
 * STAT_TYPE_UINT16
 * STAT_TYPE_UINT32
 * STAT_TYPE_UINT64
-* STAT_TYPE_TIME: Variations of base types...
-... These variations are use when the stat is rendered to apply certain format to then ... or just use to what u want
+* STAT_TYPE_TIME
 * STAT_TYPE_CASH
 * STAT_TYPE_PERCENT
 * STAT_TYPE_DEGREES

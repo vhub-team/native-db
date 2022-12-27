@@ -26,18 +26,10 @@
 * DF_AvoidHighways = 536870912
 * DF_ForceJoinInRoadDirection = 1073741824
 * DRIVINGMODE_STOPFORCARS = 786603: standard driving mode. stops for cars, peds, and lights, goes around stationary obstructions
-DF_StopForCars|DF_StopForPeds|DF_SteerAroundObjects|DF_SteerAroundStationaryCars|DF_StopAtLights|DF_UseShortCutLinks|DF_ChangeLanesAroundObstructions,
-* DRIVINGMODE_STOPFORCARS_STRICT = 262275: like the above, but doesn't steer around anything in its way--will only wait instead.
-DF_StopForCars|DF_StopForPeds|DF_StopAtLights|DF_UseShortCutLinks,
+* DRIVINGMODE_STOPFORCARS_STRICT = 262275: like the above, but doesn't steer around anything in its way--will only wait instead
 * DRIVINGMODE_AVOIDCARS = 786469: default "alerted" driving mode. drives around everything, doesn't obey lights
-DF_SwerveAroundAllCars|DF_SteerAroundObjects|DF_UseShortCutLinks|DF_ChangeLanesAroundObstructions|DF_StopForCars,
 * DRIVINGMODE_AVOIDCARS_RECKLESS = 786468: very erratic driving. difference between this and AvoidCars is that it doesn't use the brakes at ALL to help with steering
-DF_SwerveAroundAllCars|DF_SteerAroundObjects|DF_UseShortCutLinks|DF_ChangeLanesAroundObstructions,
-* DRIVINGMODE_PLOUGHTHROUGH = 262144: smashes through everything
-DF_UseShortCutLinks
-* DRIVINGMODE_STOPFORCARS_IGNORELIGHTS = 786475: drives normally except for the fact that it ignores lights
-DF_StopForCars|DF_SteerAroundStationaryCars|DF_StopForPeds|DF_SteerAroundObjects|DF_UseShortCutLinks|DF_ChangeLanesAroundObstructions
-* DRIVINGMODE_AVOIDCARS_OBEYLIGHTS = 786597: try to swerve around everything, but stop for lights if necessary
-DF_SwerveAroundAllCars|DF_StopAtLights|DF_SteerAroundObjects|DF_UseShortCutLinks|DF_ChangeLanesAroundObstructions|DF_StopForCars
+* DRIVINGMODE_PLOUGHTHROUGH = 262144: smashes through everything. DF_UseShortCutLinks
+* DRIVINGMODE_STOPFORCARS_IGNORELIGHTS = 786475: drives normally except for the fact that it ignores lights. DF_StopForCars|DF_SteerAroundStationaryCars|DF_StopForPeds|DF_SteerAroundObjects|DF_UseShortCutLinks|DF_ChangeLanesAroundObstructions
+* DRIVINGMODE_AVOIDCARS_OBEYLIGHTS = 786597: try to swerve around everything, but stop for lights if necessary. DF_SwerveAroundAllCars|DF_StopAtLights|DF_SteerAroundObjects|DF_UseShortCutLinks|DF_ChangeLanesAroundObstructions|DF_StopForCars
 * DRIVINGMODE_AVOIDCARS_STOPFORPEDS_OBEYLIGHTS = 786599: swerve around cars, be careful around peds, and stop for lights
-DF_SwerveAroundAllCars|DF_StopAtLights|DF_StopForPeds|DF_SteerAroundObjects|DF_UseShortCutLinks|DF_ChangeLanesAroundObstructions|DF_StopForCars,

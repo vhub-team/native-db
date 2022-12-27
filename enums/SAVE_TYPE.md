@@ -4,18 +4,15 @@
 These represent commom save types so that we can choose the importance of the save
 
 ## Values
-* STAT_SAVETYPE_DEFAULT: Default save where the event is not identifiable.
-Disabled
-* STAT_SAVETYPE_STUNTJUMP: Code Saves
-Deferred Profile Flush
+* STAT_SAVETYPE_DEFAULT: Default save where the event is not identifiable. Disabled
+* STAT_SAVETYPE_STUNTJUMP: Deferred Profile Flush
 * STAT_SAVETYPE_CHEATER_CHANGE: Deferred Profile Flush
 * STAT_SAVETYPE_IMMEDIATE_FLUSH: Cloud save, Profile Stats Flush
 * STAT_SAVETYPE_COMMERCE_DEPOSIT: Disabled
 * STAT_SAVETYPE_EXPLOITS: Deferred Profile Flush
 * STAT_SAVETYPE_STORE: Disabled
 * STAT_SAVETYPE_END_CODE
-* STAT_SAVETYPE_AMBIENT = 7: Script Saves
-Cloud Only, Deferred Profile Flush
+* STAT_SAVETYPE_AMBIENT = 7: Cloud Only, Deferred Profile Flush
 * STAT_SAVETYPE_CASH: Disabled
 * STAT_SAVETYPE_END_GAMER_SETUP: Profile Flush Only
 * STAT_SAVETYPE_END_SHOPPING: Profile Flush Only

@@ -1,9 +1,7 @@
 # KEY_NUMBER
 
 ## Values
-* KEY_BACK = 8: this was chosen to match Windows virtual key layout layout
-the KEY_ values are system-independent
-0x08,
+* KEY_BACK = 8: this was chosen to match Windows virtual key layout layout the KEY_ values are system-independent
 * KEY_TAB: 0x09,
 * KEY_CLEAR = 12: 0x0C,
 * KEY_RETURN: 0x0D,

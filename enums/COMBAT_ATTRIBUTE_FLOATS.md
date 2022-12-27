@@ -17,8 +17,7 @@ Defaults are taken from gta5\build\dev\common\data\ai\combatbehaviour.meta
 * CCF_HELI_SENSES_RANGE: The range of the ped's senses (sight, identification, hearing) when in a heli
 * CCF_ATTACK_WINDOW_DISTANCE_FOR_COVER: The distance we'll use for cover based behaviour in attack windows Default is -1.0 (disabled), range is -1.0 to 150.0
 * CCF_TIME_TO_INVALIDATE_INJURED_TARGET: How long to stop combat an injured target if there is no other valid target, if target is player in singleplayer
-* CCF_MIN_DISTANCE_TO_TARGET: this will happen indefinitely unless explicitly disabled by setting to 0.0, default = 10.0 range = 0-50
-Min distance the ped will use if CA_MAINTAIN_MIN_DISTANCE_TO_TARGET is set, default 5.0 (currently only for cover search + usage)
+* CCF_MIN_DISTANCE_TO_TARGET: this will happen indefinitely unless explicitly disabled by setting to 0.0, default = 10.0 range = 0-50. Min distance the ped will use if CA_MAINTAIN_MIN_DISTANCE_TO_TARGET is set, default 5.0 (currently only for cover search + usage)
 * CCF_BULLET_IMPACT_DETECTION_RANGE: The range at which the ped will detect the bullet impact event
 * CCF_AIM_TURN_THRESHOLD: The threshold at which the ped will perform an aim turn
 * CCF_OPTIMAL_COVER_DISTANCE

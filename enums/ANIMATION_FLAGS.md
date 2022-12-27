@@ -15,11 +15,8 @@
 * AF_OVERRIDE_PHYSICS = 1024: Do not apply any physics forces whilst the anim is playing. Automatically turns off collision, extracts any initial offset provided in the clip and uses per frame mover extraction.
 * AF_IGNORE_GRAVITY = 2048: Do not apply gravity while the anim is playing
 * AF_EXTRACT_INITIAL_OFFSET = 4096: Extract an initial offset from the playback position authored by the animator
-* AF_EXIT_AFTER_INTERRUPTED = 8192: Use this flag when playing back anims on different peds which have been authored
-to sync with each other
-Exit the animation task if it is interrupted by another task (ie Natural Motion).  Without this flag bing set looped animations will restart ofter the NM task
-* AF_TAG_SYNC_IN = 16384: Tag synchronizer flags - sync the anim against ped movement (walking / running / etc)
-Sync the anim whilst blending in (use for seamless transitions from walk / run into a full body anim)
+* AF_EXIT_AFTER_INTERRUPTED = 8192: Use this flag when playing back anims on different peds which have been authored to sync with each other. Exit the animation task if it is interrupted by another task (ie Natural Motion).  Without this flag bing set looped animations will restart ofter the NM task
+* AF_TAG_SYNC_IN = 16384: Tag synchronizer flags - sync the anim against ped movement (walking / running / etc). Sync the anim whilst blending in (use for seamless transitions from walk / run into a full body anim)
 * AF_TAG_SYNC_OUT = 32768: Sync the anim whilst blending out (use for seamless transitions from a full body anim into walking / running behaviour)
 * AF_TAG_SYNC_CONTINUOUS = 65536: Sync all the time (Only usefull to synchronize a partial anim e.g. an upper body)
 * AF_FORCE_START = 131072: Force the anim task to start even if the ped is falling / ragdolling / etc. Can fix issues with peds not playing their anims immediately after a warp / etc

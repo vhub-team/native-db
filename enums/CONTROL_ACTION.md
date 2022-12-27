@@ -1,8 +1,7 @@
 # CONTROL_ACTION
 
 ## Values
-* INPUT_NEXT_CAMERA: General Controls
-These act as on foot controls but are technically separate.
+* INPUT_NEXT_CAMERA: General Controls. These act as on foot controls but are technically separate
 * INPUT_LOOK_LR: In range -1 (left/up)...+1(right/down). Sign dependent on direction.
 * INPUT_LOOK_UD
 * INPUT_LOOK_UP_ONLY: In range 0...1. All directions positive.
@@ -61,8 +60,7 @@ These act as on foot controls but are technically separate.
 * INPUT_DROP_WEAPON
 * INPUT_DROP_AMMO
 * INPUT_THROW_GRENADE
-* INPUT_VEH_MOVE_LR: In Vehicle Controls
-In range -1 (left/up)...+1(right/down). Sign dependent on direction.
+* INPUT_VEH_MOVE_LR: In Vehicle Controls. In range -1 (left/up)...+1(right/down). Sign dependent on direction
 * INPUT_VEH_MOVE_UD
 * INPUT_VEH_MOVE_UP_ONLY: In range 0...1. All directions positive.
 * INPUT_VEH_MOVE_DOWN_ONLY
@@ -221,9 +219,7 @@ In range -1 (left/up)...+1(right/down). Sign dependent on direction.
 * INPUT_FRONTEND_ENDSCREEN_ACCEPT
 * INPUT_FRONTEND_ENDSCREEN_EXPAND
 * INPUT_FRONTEND_SELECT: DP: ensure you update INPUT_FRONTEND_CONTROL_END if you add any more frontend input!
-* INPUT_SCRIPT_LEFT_AXIS_X: Remappable Script controls. For use in minigames and other scripts using a custom control scheme
-instead of direct pad controls and non-remappable front end controls
-Left stick X analogue input. Values may be > 1 when using a mouse. Usually maps to movement
+* INPUT_SCRIPT_LEFT_AXIS_X: Remappable Script controls. For use in minigames and other scripts using a custom control scheme instead of direct pad controls and non-remappable front end controls. Left stick X analogue input. Values may be > 1 when using a mouse. Usually maps to movement
 * INPUT_SCRIPT_LEFT_AXIS_Y: Left stick Y analogue input. Values may be > 1 when using a mouse. Usually maps to movement
 * INPUT_SCRIPT_RIGHT_AXIS_X: Right stick X analogue input. Values may be > 1 when using a mouse. Usually maps to look.
 * INPUT_SCRIPT_RIGHT_AXIS_Y: Right stick Y analogue input. Values may be > 1 when using a mouse. Usually maps to look.
@@ -242,8 +238,7 @@ Left stick X analogue input. Values may be > 1 when using a mouse. Usually maps 
 * INPUT_SCRIPT_PAD_LEFT: D-Pad / Directional buttons left
 * INPUT_SCRIPT_PAD_RIGHT: D-Pad / Directional buttons right
 * INPUT_SCRIPT_SELECT: Back button on 360, select on PS3
-* INPUT_CURSOR_ACCEPT: NEXT GEN AND PC
-Touch pad click or mouse button 1 click
+* INPUT_CURSOR_ACCEPT: Touch pad click or mouse button 1 click
 * INPUT_CURSOR_CANCEL: Mouse button 2 click
 * INPUT_CURSOR_X: The cursor X position in the range of 0...1.
 * INPUT_CURSOR_Y: The cursor Y position in the range of 0...1.
@@ -263,16 +258,12 @@ Touch pad click or mouse button 1 click
 * INPUT_CREATOR_MENU_TOGGLE: Creator menu toggle on/off for PC keyboard and mouse.
 * INPUT_CREATOR_ACCEPT: Creator accept/place items button.
 * INPUT_CREATOR_DELETE: Creator delete items button.
-* INPUT_ATTACK2: LEGACY SUPPORT
-Remove once legacy input support has been removed. Also, update
-GetValue()!
-Know one knows what this does!
+* INPUT_ATTACK2: Know one knows what this does!
 * INPUT_RAPPEL_JUMP
 * INPUT_RAPPEL_LONG_JUMP
 * INPUT_RAPPEL_SMASH_WINDOW
-* INPUT_PREV_WEAPON: The weapon selecting works differently now. These are temporarily mapped to the weapon wheel. NOTE: the weapon can be switched in other ways than the weapon wheel on PC
-So these are NOT portable.
-* INPUT_NEXT_WEAPON
+* INPUT_PREV_WEAPON: This is temporarily mapped to the weapon wheel.
+* INPUT_NEXT_WEAPON: This is temporarily mapped to the weapon wheel.
 * INPUT_MELEE_ATTACK1: This has been renamed to INPUT_MELEE_ATTACK_LIGHT. If this should be kept as it is, let me know thomas.randall@rockstarleeds.com
 * INPUT_MELEE_ATTACK2: This has been renamed to INPUT_MELEE_ATTACK_HEAVY. If this should be kept as it is, let me know thomas.randall@rockstarleeds.com
 * INPUT_WHISTLE: This is mapped to nothing and is not used anywhere, it is added here so scripts work. If this should be kept let me know thomas.randall@rockstarleeds.com

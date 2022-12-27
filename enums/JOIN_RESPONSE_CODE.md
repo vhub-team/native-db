@@ -9,8 +9,7 @@ Response from host when joining a session
 * RESPONSE_DENY_WRONG_SESSION: Different session - Indicates bug - Use Generic Error
 * RESPONSE_DENY_NOT_HOSTING: User not hosting - (might have left and come back) - Use Generic Error
 * RESPONSE_DENY_NOT_READY: Session still starting - would occur if someone hosted and immediately sent an invite.
-* RESPONSE_DENY_BLACKLISTED: We start straight away so this should be very difficult in practice. Use Generic Error
-Gamer is blacklisted from session
+* RESPONSE_DENY_BLACKLISTED: We start straight away so this should be very difficult in practice. Use Generic Error. Gamer is blacklisted from session
 * RESPONSE_DENY_INVALID_REQUEST_DATA: Indicates bug - Use Generic Error
 * RESPONSE_DENY_INCOMPATIBLE_ASSETS: Different assets
 * RESPONSE_DENY_SESSION_FULL: Session is full
@@ -18,9 +17,7 @@ Gamer is blacklisted from session
 * RESPONSE_DENY_WRONG_VERSION: Different session - Dev only - Use Generic Error
 * RESPONSE_DENY_NOT_VISIBLE: Session not visible for Matchmaking - Won't happen for Invites (would be a bug)
 * RESPONSE_DENY_BLOCKING: Use Generic Error
-Session has been blocked for invites by host (this would be set by script and,
-* RESPONSE_DENY_AIM_PREFERENCE: for instance, might be to block players joining during a race)
-Different aim settings
+* RESPONSE_DENY_AIM_PREFERENCE: for instance, might be to block players joining during a race). Different aim settings
 * RESPONSE_DENY_CHEATER: Cheater setting different (either local or session is flagged as cheater)
 * RESPONSE_DENY_TIMEOUT: Different time out - Dev only - Use Generic Error
 * RESPONSE_DENY_DATA_HASH: Different data hash - Indicates cloud assets different
