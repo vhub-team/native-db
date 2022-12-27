@@ -1,11 +1,11 @@
 # VideoClipMetric
 
 ## Fields
-* **INT** c
-* **INT** t
-* **INT** w
-* **BOOL** w
-* **INT** p
-* **INT** v
-* **BOOL** r
-* **BOOL** i
+* **INT** characterHash
+* **INT** timeOfDay
+* **INT** weather
+* **BOOL** wantedLevel
+* **INT** pedDensity
+* **INT** vehicleDensity
+* **BOOL** restrictedArea
+* **BOOL** invulnerability

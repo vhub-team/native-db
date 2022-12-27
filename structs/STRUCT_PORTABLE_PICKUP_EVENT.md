@@ -1,10 +1,10 @@
 # STRUCT_PORTABLE_PICKUP_EVENT
 
 ## Fields
-* **OBJECT_INDEX** p
-* **NETWORK_INDEX** p
-* **PLAYER_INDEX** p
-* **MODEL_NAMES** p
+* **OBJECT_INDEX** pickupID
+* **NETWORK_INDEX** pickupNetID
+* **PLAYER_INDEX** playerIndex
+* **MODEL_NAMES** pickupModel
 
 ## Notes
 This structure can be used to retrieve information from these events:

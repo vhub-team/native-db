@@ -1,8 +1,8 @@
 # STRUCT_PLAYER_ENTERED_VEHICLE_EVENT
 
 ## Fields
-* **PLAYER_INDEX** p
-* **VEHICLE_INDEX** v
+* **PLAYER_INDEX** playerIndex
+* **VEHICLE_INDEX** vehicleIndex
 
 ## Notes
 This structure can be used to retrieve information from these events:

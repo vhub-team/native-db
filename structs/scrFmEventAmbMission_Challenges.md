@@ -1,6 +1,6 @@
 # scrFmEventAmbMission_Challenges
 
 ## Fields
-* **scrFmEventAmbientMission** d
-* **INT** c
-* **FLOAT** c
+* **scrFmEventAmbientMission** data
+* **INT** challengeType
+* **FLOAT** challengeScore

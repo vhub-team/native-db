@@ -1,9 +1,9 @@
 # STRUCT_PLAYER_ARREST_EVENT
 
 ## Fields
-* **PED_INDEX** a
-* **PED_INDEX** a
-* **ARREST_EVENT_TYPES** a
+* **PED_INDEX** arresterIndex
+* **PED_INDEX** arresteeIndex
+* **ARREST_EVENT_TYPES** arrestEventType
 
 ## Notes
 This structure can be used to retrieve information from these events:

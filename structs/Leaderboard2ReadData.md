@@ -4,7 +4,7 @@
 Used to read a leaderboard
 
 ## Fields
-* **INT** l
-* **LEADERBOARDS2_TYPES_ENUM** t
-* **INT** c
-* **Leaderboard2GroupHandle** g
+* **INT** leaderboardId
+* **LEADERBOARDS2_TYPES_ENUM** type
+* **INT** clanId
+* **Leaderboard2GroupHandle** groupSelector

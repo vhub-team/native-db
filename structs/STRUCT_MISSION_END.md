@@ -1,62 +1,62 @@
 # STRUCT_MISSION_END
 
 ## Fields
-* **INT** m
-* **INT** m
-* **INT** m
-* **INT** m
-* **INT** b
-* **INT** b
-* **INT** s
-* **INT** s
-* **INT** p = -1: Serialized in the metric name'MISSION_ENDED' as "a"
-* **INT** t = -1: Serialized in the metric name'MISSION_ENDED' as "b"
-* **INT** t = -1: Serialized in the metric name'MISSION_ENDED' as "c"
-* **INT** w = -1: Serialized in the metric name'MISSION_ENDED' as "d"
-* **INT** e = -1: Serialized in the metric name'MISSION_ENDED' as "e"
-* **INT** c = 0: Serialized in the metric name'MISSION_ENDED' as "f"
-* **INT** r = 0: Serialized in the metric name'MISSION_ENDED' as "g"
-* **INT** t = -1: Serialized in the metric name'MISSION_ENDED' as "h"
-* **INT** i = -1: Serialized in the metric name'MISSION_ENDED' as "i"
-* **INT** d = -1: Serialized in the metric name'MISSION_ENDED' as "j"
-* **INT** l = -1: Serialized in the metric name'MISSION_ENDED' as "k"
-* **INT** m = -1: Serialized in the metric name'MISSION_ENDED' as "l"
-* **INT** t = -1: Serialized in the metric name'MISSION_ENDED' as "m"
-* **INT** t = -1: Serialized in the metric name'MISSION_ENDED' as "n"
-* **INT** p = -1: Serialized in the metric name'MISSION_ENDED' as "o"
-* **INT** l = -1: Serialized in the metric name'MISSION_ENDED' as "p"
-* **INT** n = -1: Serialized in the metric name'MISSION_ENDED' as "q"
-* **INT** p = -1: Serialized in the metric name'MISSION_ENDED' as "r"
-* **INT** l = -1: Serialized in the metric name'MISSION_ENDED' as "s"
-* **INT** i = -1: Serialized in the metric name'MISSION_ENDED' as "t"
-* **INT** i = -1: Serialized in the metric name'MISSION_ENDED' as "u"
-* **INT** b = -1: Serialized in the metric name'MISSION_ENDED' as "v"
-* **INT** g = -1: Serialized in the metric name'MISSION_ENDED' as "w"
-* **INT** p = -1: Serialized in the metric name'MISSION_ENDED' as "x"
-* **INT** f = -1: Serialized in the metric name'MISSION_ENDED' as "y"
-* **INT** r = -1: Serialized in the metric name'MISSION_ENDED' as "z"
-* **INT** c = -1: Serialized in the metric name'MISSION_ENDED' as "ab"
-* **INT** a = -1: Serialized in the metric name'MISSION_ENDED' as "bb"
-* **INT** a = -1: Serialized in the metric name'MISSION_ENDED' as "cb"
-* **INT** a = -1: Serialized in the metric name'MISSION_ENDED' as "db"
-* **INT** v = -1: Serialized in the metric name'MISSION_ENDED' as "eb"
-* **INT** v = -1: Serialized in the metric name'MISSION_ENDED' as "fb"
-* **INT** t = -1: Serialized in the metric name'MISSION_ENDED' as "gb"
-* **INT** o = -1: Serialized in the metric name'MISSION_ENDED' as "hb"
-* **INT** s = -1: Serialized in the metric name'MISSION_ENDED' as "ib"
-* **INT** e = -1: Serialized in the metric name'MISSION_ENDED' as "jb"
-* **INT** s = -1: Serialized in the metric name'MISSION_ENDED' as "kb"
-* **INT** e = -1: Serialized in the metric name'MISSION_ENDED' as "lb"
-* **INT** s = -1: Serialized in the metric name'MISSION_ENDED' as "mb"
-* **INT** s = -1: Serialized in the metric name'MISSION_ENDED' as "nb"
-* **INT** i = -1: Serialized in the metric name'MISSION_ENDED' as "ob"
-* **INT** c = -1: Serialized in the metric name'MISSION_ENDED' as "pb"
-* **INT** p = -1: Serialized in the metric name'MISSION_ENDED' as "qb"
-* **INT** p = -1: Serialized in the metric name'MISSION_ENDED' as "rb"
-* **INT** u = -1: Serialized in the metric name'MISSION_ENDED' as "sb"
-* **INT** f = -1: Serialized in the metric name'MISSION_ENDED' as "tb"
-* **INT** p = 0: Serialized in the metric name'MISSION_ENDED' as "ub"
-* **INT** p = 0: Serialized in the metric name'MISSION_ENDED' as "vb"
+* **INT** missionId
+* **INT** missionTypeId
+* **INT** matchId1
+* **INT** matchId2
+* **INT** bossId1
+* **INT** bossId2
+* **INT** starterBossId1
+* **INT** starterBossId2
+* **INT** playerParticipated = -1: Serialized in the metric name'MISSION_ENDED' as "a"
+* **INT** timeStart = -1: Serialized in the metric name'MISSION_ENDED' as "b"
+* **INT** timeEnd = -1: Serialized in the metric name'MISSION_ENDED' as "c"
+* **INT** won = -1: Serialized in the metric name'MISSION_ENDED' as "d"
+* **INT** endingReason = -1: Serialized in the metric name'MISSION_ENDED' as "e"
+* **INT** cashEarned = 0: Serialized in the metric name'MISSION_ENDED' as "f"
+* **INT** rpEarned = 0: Serialized in the metric name'MISSION_ENDED' as "g"
+* **INT** targetsKilled = -1: Serialized in the metric name'MISSION_ENDED' as "h"
+* **INT** innocentsKilled = -1: Serialized in the metric name'MISSION_ENDED' as "i"
+* **INT** deaths = -1: Serialized in the metric name'MISSION_ENDED' as "j"
+* **INT** launcherRank = -1: Serialized in the metric name'MISSION_ENDED' as "k"
+* **INT** mCPointsEarnedFromWinning = -1: Serialized in the metric name'MISSION_ENDED' as "l"
+* **INT** timeTakenToComplete = -1: Serialized in the metric name'MISSION_ENDED' as "m"
+* **INT** timeTakenForObjective = -1: Serialized in the metric name'MISSION_ENDED' as "n"
+* **INT** propertyDamageValue = -1: Serialized in the metric name'MISSION_ENDED' as "o"
+* **INT** longestWheelieTime = -1: Serialized in the metric name'MISSION_ENDED' as "p"
+* **INT** numberOfCarsKicked = -1: Serialized in the metric name'MISSION_ENDED' as "q"
+* **INT** playersLeftInProgress = -1: Serialized in the metric name'MISSION_ENDED' as "r"
+* **INT** location = -1: Serialized in the metric name'MISSION_ENDED' as "s"
+* **INT** invitesSent = -1: Serialized in the metric name'MISSION_ENDED' as "t"
+* **INT** invitesAccepted = -1: Serialized in the metric name'MISSION_ENDED' as "u"
+* **INT** bossKilled = -1: Serialized in the metric name'MISSION_ENDED' as "v"
+* **INT** goonsKilled = -1: Serialized in the metric name'MISSION_ENDED' as "w"
+* **INT** packagesGathered = -1: Serialized in the metric name'MISSION_ENDED' as "x"
+* **INT** friendlyAiDeaths = -1: Serialized in the metric name'MISSION_ENDED' as "y"
+* **INT** raceToLocationLaunched = -1: Serialized in the metric name'MISSION_ENDED' as "z"
+* **INT** cratesDestroyed = -1: Serialized in the metric name'MISSION_ENDED' as "ab"
+* **INT** aIKilled = -1: Serialized in the metric name'MISSION_ENDED' as "bb"
+* **INT** alliesSpawned = -1: Serialized in the metric name'MISSION_ENDED' as "cb"
+* **INT** alliesDroppedOff = -1: Serialized in the metric name'MISSION_ENDED' as "db"
+* **INT** vansSpawned = -1: Serialized in the metric name'MISSION_ENDED' as "eb"
+* **INT** vansDestroyed = -1: Serialized in the metric name'MISSION_ENDED' as "fb"
+* **INT** typeOfBusinesS = -1: Serialized in the metric name'MISSION_ENDED' as "gb"
+* **INT** otherBusinessOwned = -1: Serialized in the metric name'MISSION_ENDED' as "hb"
+* **INT** startVolume = -1: Serialized in the metric name'MISSION_ENDED' as "ib"
+* **INT** endVolume = -1: Serialized in the metric name'MISSION_ENDED' as "jb"
+* **INT** startSupplyCapacity = -1: Serialized in the metric name'MISSION_ENDED' as "kb"
+* **INT** endSupplyCapacity = -1: Serialized in the metric name'MISSION_ENDED' as "lb"
+* **INT** suppliesDestroyed = -1: Serialized in the metric name'MISSION_ENDED' as "mb"
+* **INT** suppliesDelivered = -1: Serialized in the metric name'MISSION_ENDED' as "nb"
+* **INT** isMissionAfterFailedDefend = -1: Serialized in the metric name'MISSION_ENDED' as "ob"
+* **INT** cashSpentOnResupplies = -1: Serialized in the metric name'MISSION_ENDED' as "pb"
+* **INT** productDestroyed = -1: Serialized in the metric name'MISSION_ENDED' as "qb"
+* **INT** productDelivered = -1: Serialized in the metric name'MISSION_ENDED' as "rb"
+* **INT** upgradesOwned = -1: Serialized in the metric name'MISSION_ENDED' as "sb"
+* **INT** fromHackerTruck = -1: Serialized in the metric name'MISSION_ENDED' as "tb"
+* **INT** properties = 0: Serialized in the metric name'MISSION_ENDED' as "ub"
+* **INT** properties2 = 0: Serialized in the metric name'MISSION_ENDED' as "vb"
 
 ## Notes
 Struct for ending missions:

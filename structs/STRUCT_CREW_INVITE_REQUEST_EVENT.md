@@ -4,7 +4,7 @@
 Event data for when receving a crew invite
 
 ## Fields
-* **INT** c
+* **INT** clanId
 
 ## Notes
 -EVENT_NETWORK_CLAN_INVITE_REQUEST_RECEIVED

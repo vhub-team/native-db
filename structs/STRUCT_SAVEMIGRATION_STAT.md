@@ -4,5 +4,5 @@
 Structure that contains a savemigration stat
 
 ## Fields
-* **TEXT_LABEL_63** n
-* **TEXT_LABEL_63** v
+* **TEXT_LABEL_63** name
+* **TEXT_LABEL_63** value

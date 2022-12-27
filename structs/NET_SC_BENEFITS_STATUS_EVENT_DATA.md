@@ -4,6 +4,6 @@
 data for EVENT_NETWORK_SC_BENEFITS_STATUS event
 
 ## Fields
-* **NET_SC_BENEFITS_EVENT_TYPE** e
-* **INT** n
-* **INT** b
+* **NET_SC_BENEFITS_EVENT_TYPE** eventType
+* **INT** numBenefits
+* **INT** benefitValue

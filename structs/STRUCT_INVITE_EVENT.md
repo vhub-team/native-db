@@ -1,13 +1,13 @@
 # STRUCT_INVITE_EVENT
 
 ## Fields
-* **GAMER_HANDLE** i
-* **INT** g
-* **SESSION_TYPE** s
-* **BOOL** i
-* **INT** a
-* **INT** a
-* **INT** a
-* **BOOL** i
-* **INVITE_FLAGS** n
-* **INT** n
+* **GAMER_HANDLE** inviter
+* **INT** gameMode
+* **SESSION_TYPE** sessionType
+* **BOOL** isViaParty
+* **INT** aimType
+* **INT** activityType
+* **INT** activityID
+* **BOOL** isSCTV
+* **INVITE_FLAGS** nFlags
+* **INT** numBosses

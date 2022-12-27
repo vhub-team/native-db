@@ -1,8 +1,8 @@
 # STRUCT_CLOUD_FILE_RESPONSE_EVENT
 
 ## Fields
-* **INT** r
-* **BOOL** w
+* **INT** requestID
+* **BOOL** wasSuccessful
 
 ## Notes
 This structure can be used to retrieve information from these events:

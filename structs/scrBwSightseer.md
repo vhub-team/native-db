@@ -1,7 +1,7 @@
 # scrBwSightseer
 
 ## Fields
-* **scrBwBossWork** d
-* **INT** l
-* **INT** n
-* **INT** t
+* **scrBwBossWork** data
+* **INT** launchedByBoss
+* **INT** numberLocationToWin
+* **INT** totalLocation

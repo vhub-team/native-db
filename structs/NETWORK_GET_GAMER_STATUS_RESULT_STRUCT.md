@@ -1,5 +1,5 @@
 # NETWORK_GET_GAMER_STATUS_RESULT_STRUCT
 
 ## Fields
-* **GAMER_HANDLE** g
-* **GAMER_STATUS** n
+* **GAMER_HANDLE** gamer
+* **GAMER_STATUS** nStatus

@@ -1,4 +1,4 @@
 # ItemHashArray
 
 ## Fields
-* **INT[8]** h: INT[MAX_CRATE_ITEM_HASHS]
+* **INT[8]** hashs: INT[MAX_CRATE_ITEM_HASHS]

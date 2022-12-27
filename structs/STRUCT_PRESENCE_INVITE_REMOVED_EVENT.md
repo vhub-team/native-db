@@ -1,5 +1,5 @@
 # STRUCT_PRESENCE_INVITE_REMOVED_EVENT
 
 ## Fields
-* **INT** i
-* **INVITE_REMOVE_REASON** n
+* **INT** inviteID
+* **INVITE_REMOVE_REASON** nReason

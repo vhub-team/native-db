@@ -4,10 +4,10 @@
 This structure can be used to retrieve 7*INTEGER
 
 ## Fields
-* **INT** y
-* **INT** m
-* **INT** d
-* **INT** h
-* **INT** m
-* **INT** s
-* **INT** m
+* **INT** year
+* **INT** month
+* **INT** day
+* **INT** hour
+* **INT** minute
+* **INT** seconds
+* **INT** milliseconds

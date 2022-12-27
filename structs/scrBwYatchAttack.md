@@ -1,7 +1,7 @@
 # scrBwYatchAttack
 
 ## Fields
-* **scrBwBossWork** d
-* **INT** l
-* **INT** t
-* **INT** t
+* **scrBwBossWork** data
+* **INT** launchedByBoss
+* **INT** totalCapturingScore
+* **INT** totalUnderAttackScore

@@ -1,9 +1,9 @@
 # scrBwFragileGoods
 
 ## Fields
-* **scrBwBossWork** d
-* **FLOAT** d: Trailer destroyed/ total trailer disconnects
-* **INT** t
-* **INT** s
-* **INT** r
-* **INT** l
+* **scrBwBossWork** data
+* **FLOAT** destroyDisconnectedRatio: Trailer destroyed/ total trailer disconnects
+* **INT** targetLocation
+* **INT** startLocation
+* **INT** rivalGangDestination
+* **INT** launchedByBoss

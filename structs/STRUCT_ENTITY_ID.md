@@ -1,7 +1,7 @@
 # STRUCT_ENTITY_ID
 
 ## Fields
-* **ENTITY_INDEX** e
+* **ENTITY_INDEX** entityId
 
 ## Notes
 This structure can be used to retrieve information from these events:

@@ -4,14 +4,14 @@
 Wrapper for new weapon shop items data
 
 ## Fields
-* **INT** l
-* **INT** n
-* **INT** i
-* **INT** c
-* **INT** a
-* **INT** a
-* **INT** d
-* **TEXT_LABEL_31** l
-* **TEXT_LABEL_31** w
-* **TEXT_LABEL_31** w
-* **TEXT_LABEL_31** w
+* **INT** lockHash
+* **INT** nameHash
+* **INT** id
+* **INT** cost
+* **INT** ammoCost
+* **INT** ammoType
+* **INT** defaultClipSize
+* **TEXT_LABEL_31** label
+* **TEXT_LABEL_31** weaponDesc
+* **TEXT_LABEL_31** weaponTT
+* **TEXT_LABEL_31** weaponUppercase

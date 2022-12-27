@@ -1,9 +1,9 @@
 # SC_NEWS_STORY_DATA
 
 ## Fields
-* **STRING** t
-* **STRING** s
-* **STRING** c
-* **STRING** u
-* **STRING** h: footer
-* **STRING** t
+* **STRING** title
+* **STRING** subtitle
+* **STRING** content
+* **STRING** url
+* **STRING** headline: footer
+* **STRING** textureName

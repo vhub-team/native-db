@@ -1,7 +1,7 @@
 # sInteriorRsRefNode
 
 ## Fields
-* **INT** n
-* **VECTOR** t
-* **VECTOR** r
-* **INT** n
+* **INT** nameHash
+* **VECTOR** translation
+* **VECTOR** rotation
+* **INT** numberOfLayoutNodes

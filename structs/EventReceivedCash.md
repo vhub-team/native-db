@@ -1,5 +1,5 @@
 # EventReceivedCash
 
 ## Fields
-* **INT** c
-* **INT** c
+* **INT** characterId
+* **INT** cashAmount

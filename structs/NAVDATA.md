@@ -1,6 +1,6 @@
 # NAVDATA
 
 ## Fields
-* **FLOAT** f
-* **FLOAT** f
-* **FLOAT** f
+* **FLOAT** fSlideToCoordHeading
+* **FLOAT** fMaxSlopeNavigable
+* **FLOAT** fClampMaxSearchDistance

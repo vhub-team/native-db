@@ -1,8 +1,8 @@
 # STRUCT_SUMMON_EVENTS
 
 ## Fields
-* **INT** g
-* **SESSION_TYPE** s
+* **INT** gameMode
+* **SESSION_TYPE** sessionType
 
 ## Notes
 This structure can be used to retrieve information from these events:

@@ -1,12 +1,12 @@
 # STRUCT_DISPATCH_ENDED
 
 ## Fields
-* **INT** m
-* **INT** s
-* **INT** p
-* **INT** l: how this mission was launched; accepted/requested dispatch call
-* **INT** e: reason this mission ended; arrest, kill, die, leave
-* **INT** t: time taken to complete
-* **INT** t: how many hostile mission peds were killed
-* **INT** c: amount of cash earned
-* **INT** r: amount of RP earned
+* **INT** matchCreator
+* **INT** sessionType
+* **INT** playlistId
+* **INT** launchMethod: how this mission was launched; accepted/requested dispatch call
+* **INT** endingReason: reason this mission ended; arrest, kill, die, leave
+* **INT** timeTakenToComplete: time taken to complete
+* **INT** targetsKilled: how many hostile mission peds were killed
+* **INT** cashEarned: amount of cash earned
+* **INT** rpEarned: amount of RP earned

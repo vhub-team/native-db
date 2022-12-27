@@ -1,14 +1,14 @@
 # STRUCT_ARCADE_CABINET
 
 ## Fields
-* **INT** g: which arcade game: Badlands Revenge 2, Race & Chase, Axe of Fury, Madame Nazar etc.
-* **INT** m: ID to connect the arcade match between players, where applicable
-* **INT** n: number of players
-* **INT** l: which level the player stopped on
-* **INT** p: number of power ups collected
-* **INT** k: number of entities destroyed/killed
-* **INT** t: time played
-* **INT** s: score at the end of the game
-* **INT** r: fortune from Madam Nazar, prize from claw crane, trophy, null if not applicable
-* **INT** c: which challenges were completed
-* **INT** l: property hash this arcade game is in
+* **INT** gameType: which arcade game: Badlands Revenge 2, Race & Chase, Axe of Fury, Madame Nazar etc.
+* **INT** matchId: ID to connect the arcade match between players, where applicable
+* **INT** numPlayers: number of players
+* **INT** level: which level the player stopped on
+* **INT** powerUps: number of power ups collected
+* **INT** kills: number of entities destroyed/killed
+* **INT** timePlayed: time played
+* **INT** score: score at the end of the game
+* **INT** reward: fortune from Madam Nazar, prize from claw crane, trophy, null if not applicable
+* **INT** challenges: which challenges were completed
+* **INT** location: property hash this arcade game is in

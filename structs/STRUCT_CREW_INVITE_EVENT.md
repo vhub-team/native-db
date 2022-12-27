@@ -4,11 +4,11 @@
 Event data for when receving a crew invite
 
 ## Fields
-* **INT** c
-* **TEXT_LABEL_31** c
-* **TEXT_LABEL_7** c
-* **TEXT_LABEL_31** r
-* **BOOL** h
+* **INT** clanId
+* **TEXT_LABEL_31** crewName
+* **TEXT_LABEL_7** crewTag
+* **TEXT_LABEL_31** rankName
+* **BOOL** hasMessage
 
 ## Notes
 -EVENT_NETWORK_CLAN_INVITE_RECEIVED

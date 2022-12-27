@@ -1,14 +1,14 @@
 # STRUCT_ARCADE_LOVE_MATCH
 
 ## Fields
-* **INT** m
-* **INT** m
-* **INT** s
-* **INT** f
-* **INT** s
-* **INT** s
-* **INT** d
-* **INT** s
-* **INT** m
-* **INT** t
-* **INT** n
+* **INT** matchId1
+* **INT** matchId2
+* **INT** score
+* **INT** flying
+* **INT** stamina
+* **INT** shooting
+* **INT** driving
+* **INT** stealth
+* **INT** maxHealth
+* **INT** trueLove
+* **INT** nemesis2

@@ -1,9 +1,9 @@
 # STRUCT_PICKUP_RESPAWN_EVENT
 
 ## Fields
-* **PICKUP_INDEX** p
-* **PICKUP_TYPE** p
-* **MODEL_NAMES** p
+* **PICKUP_INDEX** pickupIndex
+* **PICKUP_TYPE** pickupType
+* **MODEL_NAMES** pickupModel
 
 ## Notes
 This structure can be used to retrieve information from these events:

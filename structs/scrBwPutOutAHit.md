@@ -1,5 +1,5 @@
 # scrBwPutOutAHit
 
 ## Fields
-* **scrBwBossWork** d
-* **INT** h
+* **scrBwBossWork** data
+* **INT** hitMethodSelected

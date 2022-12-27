@@ -1,8 +1,8 @@
 # scrBwHeadhunter
 
 ## Fields
-* **scrBwBossWork** d
-* **INT** e
-* **INT** t
-* **INT** n
-* **INT** l
+* **scrBwBossWork** data
+* **INT** enemiesKilled
+* **INT** targetLocation
+* **INT** numberOfTargetsKilled
+* **INT** launchedByBoss

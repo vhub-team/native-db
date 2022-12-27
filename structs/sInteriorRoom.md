@@ -1,5 +1,5 @@
 # sInteriorRoom
 
 ## Fields
-* **INT** n
-* **INT** n
+* **INT** nameHash
+* **INT** numberOfLayoutNodes

@@ -1,6 +1,6 @@
 # STRUCT_INSIDETRACKMETRICLIGHT
 
 ## Fields
-* **STRUCT_CASINOMETRICLIGHT** c
-* **INT** i
-* **INT** m
+* **STRUCT_CASINOMETRICLIGHT** casinoMetric
+* **INT** individualGameCount
+* **INT** mainEventCount

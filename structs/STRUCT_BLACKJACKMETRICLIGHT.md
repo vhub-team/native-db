@@ -1,9 +1,9 @@
 # STRUCT_BLACKJACKMETRICLIGHT
 
 ## Fields
-* **STRUCT_CASINOMETRICLIGHT** c
-* **INT** d
-* **INT** p
-* **INT** s
-* **INT** b
-* **INT** m
+* **STRUCT_CASINOMETRICLIGHT** casinoMetric
+* **INT** dealerBlackjackCount
+* **INT** playerBlackjackCount
+* **INT** surrenderCount
+* **INT** bustCount
+* **INT** m_7CardCharlieCount

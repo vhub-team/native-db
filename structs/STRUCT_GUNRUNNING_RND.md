@@ -4,10 +4,10 @@
 Struct for metric sent whenever a player starts or ends R&D OR Production
 
 ## Fields
-* **INT** b
-* **INT** b
-* **INT** s
-* **INT** u
-* **INT** s
-* **INT** s
-* **INT** p
+* **INT** bossId1
+* **INT** bossId2
+* **INT** startorEnd
+* **INT** upgradeType
+* **INT** staffPercentage
+* **INT** supplyAmount
+* **INT** productionAmount

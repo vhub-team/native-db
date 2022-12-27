@@ -1,12 +1,12 @@
 # STRUCT_CARCLUB_POINTS
 
 ## Fields
-* **INT** b: unique ID of the Boss/organization
-* **INT** b: unique ID of the Boss/organization
-* **INT** m: match ID
-* **INT** m: hash, reason for earning points: item bought, first time bonus, complete mission etc.
-* **INT** a: number of points earned
-* **INT** i: hash, item bought that awarded Car Club reputation
-* **INT** s: streak count for visiting the the Car Club
-* **INT** m: membership level
-* **BOOL** l: whether the player has just leveled up their membership
+* **INT** boss_id1: unique ID of the Boss/organization
+* **INT** boss_id2: unique ID of the Boss/organization
+* **INT** match_id: match ID
+* **INT** method: hash, reason for earning points: item bought, first time bonus, complete mission etc.
+* **INT** amount: number of points earned
+* **INT** itemBought: hash, item bought that awarded Car Club reputation
+* **INT** streak: streak count for visiting the the Car Club
+* **INT** memberLevel: membership level
+* **BOOL** levelUp: whether the player has just leveled up their membership

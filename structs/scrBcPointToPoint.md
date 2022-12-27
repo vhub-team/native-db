@@ -1,5 +1,5 @@
 # scrBcPointToPoint
 
 ## Fields
-* **scrBcBossChallenge** d
-* **INT** d: Deaths
+* **scrBcBossChallenge** data
+* **INT** deaths: Deaths

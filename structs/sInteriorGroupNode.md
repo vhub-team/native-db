@@ -1,4 +1,4 @@
 # sInteriorGroupNode
 
 ## Fields
-* **INT** n
+* **INT** numberOfRsRefNodes

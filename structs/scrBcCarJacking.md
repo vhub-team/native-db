@@ -1,5 +1,5 @@
 # scrBcCarJacking
 
 ## Fields
-* **scrBcBossChallenge** d
-* **INT** t: Total score
+* **scrBcBossChallenge** data
+* **INT** totalScore: Total score

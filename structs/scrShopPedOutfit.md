@@ -4,11 +4,11 @@
 Wrapper for new clothing outfit item shop data
 
 ## Fields
-* **INT** l
-* **INT** n
-* **INT** c
-* **INT** n
-* **INT** n
-* **INT** s
-* **INT** c
-* **TEXT_LABEL_31** t
+* **INT** lockHash
+* **INT** nameHash
+* **INT** cost
+* **INT** numberOfProps
+* **INT** numberOfComponents
+* **INT** shopEnum
+* **INT** character
+* **TEXT_LABEL_31** textLabel

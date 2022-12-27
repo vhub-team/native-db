@@ -1,5 +1,5 @@
 # STRUCT_NETWORK_ROS_CHANGED
 
 ## Fields
-* **BOOL** v
-* **BOOL** v
+* **BOOL** validCredentials
+* **BOOL** validRockstarID

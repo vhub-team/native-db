@@ -4,10 +4,10 @@
 Structure that contains a savemigration account
 
 ## Fields
-* **INT** a
-* **INT** s
-* **BOOL** a
-* **TEXT_LABEL** p
-* **TEXT_LABEL_63** g
-* **TEXT_LABEL_63** g
-* **TEXT_LABEL_63** e
+* **INT** accountId
+* **INT** statusCount
+* **BOOL** available
+* **TEXT_LABEL** platform
+* **TEXT_LABEL_63** gamerName
+* **TEXT_LABEL_63** gamerHandle
+* **TEXT_LABEL_63** errorCode

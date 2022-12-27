@@ -4,14 +4,14 @@
 Structure to retrieve available saves for migration
 
 ## Fields
-* **FLOAT** t
-* **INT** n
-* **INT** l
-* **TEXT_LABEL_63** g
-* **TEXT_LABEL_63** g
-* **TEXT_LABEL_63** p
-* **TEXT_LABEL_63** e
-* **TEXT_LABEL_63** b
-* **TEXT_LABEL_63[2]** w: TEXT_LABEL_63[2]
-* **INT[2]** x: INT[2]
-* **INT[2]** i: INT[2]
+* **FLOAT** totalProgressMadeInSp
+* **INT** numberOfChars
+* **INT** lastchar
+* **TEXT_LABEL_63** gamerName
+* **TEXT_LABEL_63** gamerHandle
+* **TEXT_LABEL_63** pvc
+* **TEXT_LABEL_63** evc
+* **TEXT_LABEL_63** bank
+* **TEXT_LABEL_63[2]** wallet: TEXT_LABEL_63[2]
+* **INT[2]** xp: INT[2]
+* **INT[2]** isactive: INT[2]

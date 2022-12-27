@@ -4,20 +4,20 @@
 Struct for DAR missions checkpoints
 
 ## Fields
-* **INT** s = -1
-* **INT** c = -1
-* **INT** t = -1
-* **INT** c = -1
-* **INT** t = -1
-* **INT** c = -1
-* **INT** t = -1
-* **INT** c = -1
-* **INT** t = -1
-* **INT** e = -1
-* **INT** d = -1
-* **INT** t = -1
-* **INT** c = -1
-* **INT** r = -1
-* **INT** r = -1
-* **INT** f = -1
-* **INT** r = -1
+* **INT** startLocation = -1
+* **INT** checkpoint1Complete = -1
+* **INT** timeTakenToCompleteCheckpoint1 = -1
+* **INT** checkpoint2Complete = -1
+* **INT** timeTakenToCompleteCheckpoint2 = -1
+* **INT** checkpoint3Complete = -1
+* **INT** timeTakenToCompleteCheckpoint3 = -1
+* **INT** checkpoint4Complete = -1
+* **INT** timeTakenToCompleteCheckpoint4 = -1
+* **INT** endLocation = -1
+* **INT** darAcquired = -1
+* **INT** totalTimeSpent = -1
+* **INT** cashEarned = -1
+* **INT** rPEarned = -1
+* **INT** replay = -1
+* **INT** failedReason = -1
+* **INT** rockstarAccountIndicator = -1

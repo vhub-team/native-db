@@ -4,11 +4,11 @@
 For passing Weaponwheel contents to code
 
 ## Fields
-* **WEAPON_TYPE** e
-* **INT** a
-* **INT** m
-* **INT** t
-* **INT** c
+* **WEAPON_TYPE** eWeaponType
+* **INT** ammoCount
+* **INT** modsAsBitfield
+* **INT** tint
+* **INT** camo
 
 ## Notes
 DO NOT MODIFY THE ORDER WITHOUT ALSO TOUCHING CODE

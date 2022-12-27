@@ -1,7 +1,7 @@
 # scrFmEventAmbMission_ATOB
 
 ## Fields
-* **scrFmEventAmbientMission** d
-* **INT** v
-* **INT** p
-* **INT** t
+* **scrFmEventAmbientMission** data
+* **INT** vehicleType
+* **INT** parTimeBeaten
+* **INT** type

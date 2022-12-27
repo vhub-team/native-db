@@ -1,5 +1,5 @@
 # scrFmEventAmbMission_VehicleTarget
 
 ## Fields
-* **scrFmEventAmbientMission** d
-* **INT** v
+* **scrFmEventAmbientMission** data
+* **INT** vehicleType

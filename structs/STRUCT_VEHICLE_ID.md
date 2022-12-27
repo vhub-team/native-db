@@ -1,7 +1,7 @@
 # STRUCT_VEHICLE_ID
 
 ## Fields
-* **VEHICLE_INDEX** v
+* **VEHICLE_INDEX** vehicleId
 
 ## Notes
 This structure can be used to retrieve information from these events:

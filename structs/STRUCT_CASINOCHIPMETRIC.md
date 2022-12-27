@@ -1,11 +1,11 @@
 # STRUCT_CASINOCHIPMETRIC
 
 ## Fields
-* **INT** a
-* **INT** t
-* **INT** c
-* **INT** c
-* **INT** r
-* **INT** c
-* **INT** c
-* **INT** i
+* **INT** action
+* **INT** transactionID
+* **INT** cashAmount
+* **INT** chipsAmount
+* **INT** reason
+* **INT** cashBalance
+* **INT** chipBalance
+* **INT** item

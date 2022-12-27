@@ -1,19 +1,19 @@
 # STRUCT_ENTITY_DAMAGE_EVENT
 
 ## Fields
-* **ENTITY_INDEX** v
-* **ENTITY_INDEX** d
-* **FLOAT** d
-* **FLOAT** e
-* **BOOL** v
-* **BOOL** v
-* **INT** w
-* **FLOAT** v
-* **FLOAT** d
-* **BOOL** i: TRUE if the damager is responsible for the collision - Only set on vehicle collisions.
-* **BOOL** i: TRUE if the damage is a headshot.
-* **BOOL** i: TRUE if the damage is "with melee" - using a whip will set this to true.
-* **INT** h: 8 bit material id
+* **ENTITY_INDEX** victimIndex
+* **ENTITY_INDEX** damagerIndex
+* **FLOAT** damage
+* **FLOAT** enduranceDamage
+* **BOOL** victimIncapacitated
+* **BOOL** victimDestroyed
+* **INT** weaponUsed
+* **FLOAT** victimSpeed
+* **FLOAT** damagerSpeed
+* **BOOL** isResponsibleForCollision: TRUE if the damager is responsible for the collision - Only set on vehicle collisions.
+* **BOOL** isHeadShot: TRUE if the damage is a headshot.
+* **BOOL** isWithMeleeWeapon: TRUE if the damage is "with melee" - using a whip will set this to true.
+* **INT** hitMaterial: 8 bit material id
 
 ## Notes
 This structure can be used to retrieve information from these events:

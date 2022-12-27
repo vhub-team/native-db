@@ -4,5 +4,5 @@
 Structure thats describes a Party
 
 ## Fields
-* **INT** m
-* **GAMER_INFO[32]** m: GAMER_INFO[MAX_PARTY_MEMBERS]
+* **INT** memberCount
+* **GAMER_INFO[32]** memberInfo: GAMER_INFO[MAX_PARTY_MEMBERS]

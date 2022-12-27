@@ -1,7 +1,7 @@
 # scrBcFindersKeepers
 
 ## Fields
-* **scrBcBossChallenge** d
-* **INT** d: Deaths
-* **INT** p: number of packages collected
-* **INT** q: Quandrant selected
+* **scrBcBossChallenge** data
+* **INT** deaths: Deaths
+* **INT** packagesCollected: number of packages collected
+* **INT** quadrantSelected: Quandrant selected

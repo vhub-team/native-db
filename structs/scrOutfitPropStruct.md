@@ -4,6 +4,6 @@
 Wrapper for outfit variant props
 
 ## Fields
-* **INT** n
-* **INT** e
-* **INT** a
+* **INT** nameHash
+* **INT** enumValue
+* **INT** anchorPoint

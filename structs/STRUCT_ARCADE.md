@@ -4,23 +4,23 @@
 Heist 3 earn and spend
 
 ## Fields
-* **INT** l
-* **INT** l
-* **INT** g
-* **INT** g
-* **INT** s
-* **INT** s
-* **INT** d
-* **INT** d
-* **INT** b
-* **INT** b
-* **INT** s
-* **INT** s
-* **INT** m
-* **INT** m
-* **INT** f
-* **INT** f
-* **INT** n
-* **INT** n
-* **INT** h
-* **INT** h
+* **INT** location
+* **INT** location_amount
+* **INT** garage
+* **INT** garage_amount
+* **INT** sleeping_quarter
+* **INT** sleeping_quarter_amount
+* **INT** drone_station
+* **INT** drone_station_amount
+* **INT** business_management
+* **INT** business_management_amount
+* **INT** style
+* **INT** style_amount
+* **INT** mural
+* **INT** mural_amount
+* **INT** floor
+* **INT** floor_amount
+* **INT** neon_art
+* **INT** neon_art_amount
+* **INT** highscore_screen
+* **INT** highscore_screen_amount

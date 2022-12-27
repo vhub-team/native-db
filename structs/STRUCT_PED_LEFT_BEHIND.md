@@ -1,8 +1,8 @@
 # STRUCT_PED_LEFT_BEHIND
 
 ## Fields
-* **PED_INDEX** p
-* **INT** r: see possible reason in NETWORK_REASON_PED_LEFT_BEHIND
+* **PED_INDEX** pedIndex
+* **INT** reason: see possible reason in NETWORK_REASON_PED_LEFT_BEHIND
 
 ## Notes
 This structure can be used to retrieve information from these events:

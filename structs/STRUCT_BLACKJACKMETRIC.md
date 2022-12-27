@@ -1,9 +1,9 @@
 # STRUCT_BLACKJACKMETRIC
 
 ## Fields
-* **STRUCT_CASINOMETRIC** c
-* **BOOL** s
-* **BOOL** h
-* **BOOL** d
-* **BOOL** s
-* **INT** o
+* **STRUCT_CASINOMETRIC** casinoMetric
+* **BOOL** stand
+* **BOOL** hit
+* **BOOL** double
+* **BOOL** split
+* **INT** outcome

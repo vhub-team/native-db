@@ -4,7 +4,7 @@
 Wrapper for new weapons data
 
 ## Fields
-* **INT** l
-* **INT** i
-* **INT** c
-* **TEXT_LABEL_31** l
+* **INT** lockHash
+* **INT** id
+* **INT** cost
+* **TEXT_LABEL_31** label

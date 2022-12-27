@@ -1,21 +1,21 @@
 # scrContrabandMission
 
 ## Fields
-* **INT** b: BossId
-* **INT** b: BossId
-* **INT** m: MatchId
-* **INT** m: MatchId
-* **INT** p: Whether or not player participated
-* **INT** t: Time work started
-* **INT** t: Time work ended
-* **INT** w: won/lost
-* **INT** e: Reason for script ending - timer ran out, left session, etc
-* **INT** c: Cash Earned.
-* **INT** r: RP Earned.
-* **INT** l: Location selected
-* **INT** t: Type of Mission Launched (small medium, large)
-* **INT** s: Subtype of Mission Launched
-* **INT** w: What Warehouses the Boss owns (bit set)
-* **INT** w: number of Warehouses the Boss owns
-* **INT** f: Failure reason
-* **INT** m = 0: MissionId
+* **INT** bossId1: BossId
+* **INT** bossId2: BossId
+* **INT** matchId1: MatchId
+* **INT** matchId2: MatchId
+* **INT** playerParticipated: Whether or not player participated
+* **INT** timeStart: Time work started
+* **INT** timeEnd: Time work ended
+* **INT** won: won/lost
+* **INT** endingReason: Reason for script ending - timer ran out, left session, etc
+* **INT** cashEarned: Cash Earned.
+* **INT** rpEarned: RP Earned.
+* **INT** location: Location selected
+* **INT** type: Type of Mission Launched (small medium, large)
+* **INT** subtype: Subtype of Mission Launched
+* **INT** warehouseOwned: What Warehouses the Boss owns (bit set)
+* **INT** warehouseOwnedCount: number of Warehouses the Boss owns
+* **INT** failureReason: Failure reason
+* **INT** missionId = 0: MissionId

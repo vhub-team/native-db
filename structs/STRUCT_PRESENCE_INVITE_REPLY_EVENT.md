@@ -1,9 +1,9 @@
 # STRUCT_PRESENCE_INVITE_REPLY_EVENT
 
 ## Fields
-* **GAMER_HANDLE** i
-* **INVITE_STATUS** n
-* **INT** c
-* **TEXT_LABEL_15** c
-* **BOOL** d
-* **BOOL** d
+* **GAMER_HANDLE** inviter
+* **INVITE_STATUS** nInviteStatus
+* **INT** characterRank
+* **TEXT_LABEL_15** clanTag
+* **BOOL** decisionMade
+* **BOOL** decision

@@ -1,49 +1,49 @@
 # JobBInfo
 
 ## Fields
-* **BOOL** i
-* **INT** r
-* **INT** c
-* **INT** k
-* **INT** d
-* **INT** c
-* **INT** c
-* **INT** c
-* **INT** c
-* **INT** m
-* **INT** x
-* **INT** s
-* **INT** r
-* **INT** c
-* **INT** t
-* **INT** m
-* **INT** j
-* **INT** c
-* **INT** q
-* **BOOL** s
-* **BOOL** l
-* **INT** l
-* **INT** l: Received Lester Phone Call?
-* **INT** h: Heist root content ID
-* **INT** t: Time Spent on Planning Board
-* **INT** o: Outfits: Leader choice or crew choice?
-* **INT** o: Outfits: Owned or pre-sets and Outfits: Presets - which preset for which role
-* **INT** o: Overall clothing setup chosen by the leader
-* **INT** d: Difficulty set in corona
-* **INT** m: NG: 1st person set in corona - forced or allowed choice?
-* **INT** m: Which Role got Which Medal
-* **INT** t: Number of Team Lives used?
-* **INT** f: Reason for failure
-* **INT** f: Which role caused failure
-* **INT** u: 0 = no restart used, 1 = Full restart, 2 = Checkpoint
-* **INT** u: Used skip trip?
-* **INT** s: Prison  - Station - spooked cops?
-* **INT** c: Pacific - Finale - amount of Cash lost from being shot
-* **INT** c: Pacific - Finale - Cash picked up in cash pick up minigame
-* **INT** m
-* **INT** m
-* **INT** m
-* **INT** m
-* **INT** h
-* **INT** h
-* **INT** m
+* **BOOL** ishost
+* **INT** role
+* **INT** cashcutpercentage
+* **INT** kills
+* **INT** deaths
+* **INT** clothes
+* **INT** cash
+* **INT** cashStart
+* **INT** cashEnd
+* **INT** missionLaunch
+* **INT** xp
+* **INT** suicides
+* **INT** rank
+* **INT** crewId
+* **INT** teamId
+* **INT** matchResult
+* **INT** jpEarned
+* **INT** celebrationanim
+* **INT** quickplayanim
+* **BOOL** sessionVisible
+* **BOOL** leftInProgress
+* **INT** leaderscashcutpercentage
+* **INT** lesterCalled: Received Lester Phone Call?
+* **INT** heistRootConstentId: Heist root content ID
+* **INT** timePlanningBoard: Time Spent on Planning Board
+* **INT** outfitChoiceBy: Outfits: Leader choice or crew choice?
+* **INT** outfitChoiceType: Outfits: Owned or pre-sets and Outfits: Presets - which preset for which role
+* **INT** outfitStyle: Overall clothing setup chosen by the leader
+* **INT** difficulty: Difficulty set in corona
+* **INT** m_1stperson: NG: 1st person set in corona - forced or allowed choice?
+* **INT** medal: Which Role got Which Medal
+* **INT** teamLivesUsed: Number of Team Lives used?
+* **INT** failureReason: Reason for failure
+* **INT** failureRole: Which role caused failure
+* **INT** usedQuickRestart: 0 = no restart used, 1 = Full restart, 2 = Checkpoint
+* **INT** usedTripSkip: Used skip trip?
+* **INT** spookedCops: Prison  - Station - spooked cops?
+* **INT** cashLost: Pacific - Finale - amount of Cash lost from being shot
+* **INT** cashPickedUp: Pacific - Finale - Cash picked up in cash pick up minigame
+* **INT** minigameTimeTaken0
+* **INT** minigameNumberOfTimes0
+* **INT** minigameTimeTaken1
+* **INT** minigameNumberOfTimes1
+* **INT** heistSessionHashMac
+* **INT** heistSessionIdPosixTime
+* **INT** maskChoice

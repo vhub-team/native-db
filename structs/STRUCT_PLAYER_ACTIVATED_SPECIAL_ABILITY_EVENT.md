@@ -1,8 +1,8 @@
 # STRUCT_PLAYER_ACTIVATED_SPECIAL_ABILITY_EVENT
 
 ## Fields
-* **PLAYER_INDEX** p
-* **INT** s
+* **PLAYER_INDEX** playerIndex
+* **INT** specialAbility
 
 ## Notes
 This structure can be used to retrieve information from these events:

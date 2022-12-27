@@ -1,8 +1,8 @@
 # STRUCT_TIMED_EXPLOSION_EVENT
 
 ## Fields
-* **VEHICLE_INDEX** v
-* **PED_INDEX** c
+* **VEHICLE_INDEX** vehicleIndex
+* **PED_INDEX** culpritIndex
 
 ## Notes
 This structure can be used to retrieve information from these events:

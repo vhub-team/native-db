@@ -1,5 +1,5 @@
 # STRUCT_NETWORK_SYSTEM_SERVICE_EVENT
 
 ## Fields
-* **INT** e
-* **INT** f
+* **INT** eventID
+* **INT** flags

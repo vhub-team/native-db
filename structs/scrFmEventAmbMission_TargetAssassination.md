@@ -1,5 +1,5 @@
 # scrFmEventAmbMission_TargetAssassination
 
 ## Fields
-* **scrFmEventAmbientMission** d
-* **INT** t: Targets killed
+* **scrFmEventAmbientMission** data
+* **INT** targetsKilled: Targets killed

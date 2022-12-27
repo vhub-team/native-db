@@ -4,7 +4,7 @@
 Player earned cash from ambient job, job specific data
 
 ## Fields
-* **INT** v
-* **INT** v
-* **INT** v
-* **INT** v
+* **INT** v1
+* **INT** v2
+* **INT** v3
+* **INT** v4

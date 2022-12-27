@@ -4,50 +4,50 @@
 Convenient way of passing loads of params into the metric PLAYSTATS_JOB_ACTIVITY_ENDED
 
 ## Fields
-* **INT** c
-* **INT** b
-* **INT** c
-* **INT** c
-* **INT** m
-* **INT** o: First Macaddress Hash passed in PLAYSTATS_MATCH_STARTED. created using PLAYSTATS_CREATE_MATCH_HISTORY_ID_2
-* **INT** o: First Posix Time Hash passed in PLAYSTATS_MATCH_STARTED. created using PLAYSTATS_CREATE_MATCH_HISTORY_ID_2
-* **BOOL** i
-* **BOOL** l
-* **BOOL** d
-* **BOOL** a
-* **INT** x
-* **INT** h
-* **INT** k
-* **INT** d
-* **INT** s
-* **INT** r
-* **INT** c
-* **INT** v
-* **INT** b
-* **INT** s
-* **INT** t
-* **INT** m
-* **INT** r
-* **INT** r
-* **INT** m
-* **INT** j
-* **INT** n
-* **INT** p
-* **INT** c
-* **INT** q
-* **INT** s
-* **BOOL** i
-* **BOOL** i
-* **BOOL** j: Setup Job Visibility - Was it set to open/closed in corona?
-* **BOOL** w: Include whether the DM had weapons set to 'fixed'
-* **BOOL** s
-* **INT** j
-* **INT** o
-* **INT** o: Outfits: Owned or pre-sets and Outfits: Presets - which preset for which role
-* **INT** p
-* **INT** p
-* **INT** t
-* **INT** l
-* **INT** m
-* **INT** s
-* **INT** t
+* **INT** cash
+* **INT** betCash
+* **INT** cashStart
+* **INT** cashEnd
+* **INT** missionLaunch
+* **INT** originalHashMac: First Macaddress Hash passed in PLAYSTATS_MATCH_STARTED. created using PLAYSTATS_CREATE_MATCH_HISTORY_ID_2
+* **INT** originalPosixTime: First Posix Time Hash passed in PLAYSTATS_MATCH_STARTED. created using PLAYSTATS_CREATE_MATCH_HISTORY_ID_2
+* **BOOL** isTeamDeathmatch
+* **BOOL** leftInProgress
+* **BOOL** dnf
+* **BOOL** aggregateScore
+* **INT** xp
+* **INT** highestKillStreak
+* **INT** kills
+* **INT** deaths
+* **INT** suicides
+* **INT** rank
+* **INT** crewId
+* **INT** vehicleId
+* **INT** betWon
+* **INT** survivedWave
+* **INT** teamId
+* **INT** matchType
+* **INT** raceType
+* **INT** raceSubtype
+* **INT** matchResult
+* **INT** jpEarned
+* **INT** numLaps
+* **INT** playlistID
+* **INT** celebrationanim
+* **INT** quickplayanim
+* **INT** stuntLaunchCorona
+* **BOOL** ishead2head
+* **BOOL** isPlaylistChallenge
+* **BOOL** jobVisibilitySetInCorona: Setup Job Visibility - Was it set to open/closed in corona?
+* **BOOL** weaponsfixed: Include whether the DM had weapons set to 'fixed'
+* **BOOL** sessionVisible
+* **INT** jobDifficulty
+* **INT** outfitStyle
+* **INT** outfitChoiceType: Outfits: Owned or pre-sets and Outfits: Presets - which preset for which role
+* **INT** playlistHashMac
+* **INT** playlistPosixTime
+* **INT** totalPoints
+* **INT** largeTargetsHit
+* **INT** mediumTargetsHit
+* **INT** smallTargetsHit
+* **INT** tinyTargetsHit

@@ -1,9 +1,9 @@
 # STRUCT_INVITE_ARRIVED_EVENT
 
 ## Fields
-* **INT** i
-* **INT** g
-* **BOOL** i
+* **INT** inviteIndex
+* **INT** gameMode
+* **BOOL** isFriend
 
 ## Notes
 This structure can be used to retrieve information from these events:

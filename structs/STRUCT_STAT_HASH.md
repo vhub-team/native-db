@@ -1,7 +1,7 @@
 # STRUCT_STAT_HASH
 
 ## Fields
-* **INT** s
+* **INT** statHash
 
 ## Notes
 This structure can be used to retrieve information from these events:

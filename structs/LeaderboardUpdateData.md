@@ -4,6 +4,6 @@
 Used to write an update to a leaderboard
 
 ## Fields
-* **INT** l
-* **INT** c
-* **Leaderboard2GroupHandle** g
+* **INT** leaderboardId
+* **INT** clanId
+* **Leaderboard2GroupHandle** groupSelector

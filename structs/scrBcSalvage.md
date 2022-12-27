@@ -1,7 +1,7 @@
 # scrBcSalvage
 
 ## Fields
-* **scrBcBossChallenge** d
-* **INT** c
-* **INT** r
-* **INT** d: Deaths
+* **scrBcBossChallenge** data
+* **INT** checkpointsCollected
+* **INT** rebreathersCollected
+* **INT** deaths: Deaths

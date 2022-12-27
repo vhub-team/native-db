@@ -1,4 +1,4 @@
 # STRUCT_NETWORK_APP_LAUNCHED
 
 ## Fields
-* **APP_LAUNCH_FLAGS** n
+* **APP_LAUNCH_FLAGS** nFlags

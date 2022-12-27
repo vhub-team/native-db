@@ -1,6 +1,6 @@
 # STRUCT_THREECARDPOKERMETRIC
 
 ## Fields
-* **STRUCT_CASINOMETRIC** c
-* **BOOL** p
-* **INT** o
+* **STRUCT_CASINOMETRIC** casinoMetric
+* **BOOL** pairPlus
+* **INT** outcome

@@ -1,5 +1,5 @@
 # scrFmEventAmbMission_HuntBeast
 
 ## Fields
-* **scrFmEventAmbientMission** d
-* **INT** l
+* **scrFmEventAmbientMission** data
+* **INT** landmarksCollected

@@ -1,7 +1,7 @@
 # STRUCT_SCRIPT_ERROR
 
 ## Fields
-* **INT** s
+* **INT** scriptID
 
 ## Notes
 This structure can be used to retrieve information from these events:

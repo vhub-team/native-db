@@ -1,7 +1,7 @@
 # scrPIMenuHideSettings
 
 ## Fields
-* **INT** b
-* **INT** b
-* **INT** b
-* **INT** b
+* **INT** bitsetopt1
+* **INT** bitsetopt2
+* **INT** bitsetopt3
+* **INT** bitsetopt4

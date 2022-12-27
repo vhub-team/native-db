@@ -1,7 +1,7 @@
 # scrBwBossOnBossDeathMatch
 
 ## Fields
-* **scrBwBossWork** d
-* **INT** l
-* **INT** i
-* **INT** i
+* **scrBwBossWork** data
+* **INT** launchedByBoss
+* **INT** invitesSent
+* **INT** invitesAccepted

@@ -1,6 +1,6 @@
 # scrFmEventAmbMission_CompetitiveUrbanWarfare
 
 ## Fields
-* **scrFmEventAmbientMission** d
-* **INT** w: Wave reached
-* **INT** k: Kills per player
+* **scrFmEventAmbientMission** data
+* **INT** waveReached: Wave reached
+* **INT** killsPerPlayer: Kills per player

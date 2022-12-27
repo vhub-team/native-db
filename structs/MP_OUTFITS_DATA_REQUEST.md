@@ -1,5 +1,5 @@
 # MP_OUTFITS_DATA_REQUEST
 
 ## Fields
-* **BOOL** m
-* **MP_OUTFIT_ENUM** e = -1
+* **BOOL** male
+* **MP_OUTFIT_ENUM** eOutfit = -1

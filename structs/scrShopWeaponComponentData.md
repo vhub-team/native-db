@@ -4,14 +4,14 @@
 Wrapper for new weapon shop items data
 
 ## Fields
-* **INT** m
-* **BOOL** i
-* **INT** l
-* **INT** c
-* **INT** i
-* **INT** c
-* **TEXT_LABEL_31** l
-* **TEXT_LABEL_31** c
+* **INT** modType
+* **BOOL** isDefault
+* **INT** lockHash
+* **INT** componentName
+* **INT** id
+* **INT** cost
+* **TEXT_LABEL_31** label
+* **TEXT_LABEL_31** componentDesc
 
 ## Notes
 ModType returns a hash of the weapon component's attach point name (and not something sensible, like an enum of component types that matches code...)

@@ -1,4 +1,4 @@
 # LEADERBOARD_GAMER
 
 ## Fields
-* **GAMER_HANDLE** g
+* **GAMER_HANDLE** gamerHandle

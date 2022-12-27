@@ -1,5 +1,5 @@
 # STRUCT_ADMIN_INVITED_EVENT
 
 ## Fields
-* **GAMER_HANDLE** i
-* **BOOL** i
+* **GAMER_HANDLE** inviter
+* **BOOL** isSCTV

@@ -1,7 +1,7 @@
 # scrFmEventAmbMission_PlaneDrop
 
 ## Fields
-* **scrFmEventAmbientMission** d
-* **INT** r: Route taken
-* **INT** n: Number of crates collected
-* **INT** n: Number of crates dropped
+* **scrFmEventAmbientMission** data
+* **INT** routeTaken: Route taken
+* **INT** numCratesCollected: Number of crates collected
+* **INT** numCratesDropped: Number of crates dropped

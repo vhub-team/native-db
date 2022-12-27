@@ -1,6 +1,6 @@
 # scrBwHuntTheBoss
 
 ## Fields
-* **scrBwBossWork** d
-* **INT** l
-* **INT** v
+* **scrBwBossWork** data
+* **INT** launchedByBoss
+* **INT** variationPlayed

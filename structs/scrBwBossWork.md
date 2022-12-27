@@ -1,17 +1,17 @@
 # scrBwBossWork
 
 ## Fields
-* **INT** b: bossId1
-* **INT** b: bossId2
-* **INT** m: matchId1
-* **INT** m: matchId2
-* **INT** p: Whether  or not player participated
-* **INT** t: Time work started
-* **INT** t: Time work ended
-* **INT** w: won/lost
-* **INT** e: Reason for script ending - timer ran out, left session, etc
-* **INT** c: Cash Earned.
-* **INT** r: RP Earned.
-* **INT** b: Boss's killed
-* **INT** g: Goons killed
-* **INT** d: Deaths
+* **INT** boss1: bossId1
+* **INT** boss2: bossId2
+* **INT** match1: matchId1
+* **INT** match2: matchId2
+* **INT** playerParticipated: Whether  or not player participated
+* **INT** timeStart: Time work started
+* **INT** timeEnd: Time work ended
+* **INT** won: won/lost
+* **INT** endingReason: Reason for script ending - timer ran out, left session, etc
+* **INT** cashEarned: Cash Earned.
+* **INT** rpEarned: RP Earned.
+* **INT** bossKilled: Boss's killed
+* **INT** goonsKilled: Goons killed
+* **INT** deaths: Deaths

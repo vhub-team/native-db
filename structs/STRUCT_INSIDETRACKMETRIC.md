@@ -1,6 +1,6 @@
 # STRUCT_INSIDETRACKMETRIC
 
 ## Fields
-* **STRUCT_CASINOMETRIC** c
-* **INT** g
-* **INT** h
+* **STRUCT_CASINOMETRIC** casinoMetric
+* **INT** gameChoice
+* **INT** horseChoice

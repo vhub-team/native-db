@@ -1,24 +1,24 @@
 # STRUCT_CASINOMETRIC
 
 ## Fields
-* **INT** g
-* **INT** m
-* **INT** t
-* **INT** h
-* **INT** e
-* **BOOL** a
-* **INT** c
-* **INT** f
-* **INT** t
-* **INT** p
-* **BOOL** v
-* **BOOL** o
-* **INT** b
-* **INT** b
-* **INT** w
-* **BOOL** w
-* **BOOL** c
-* **INT** t
-* **BOOL** i
-* **INT** h
-* **INT** m
+* **INT** gameType
+* **INT** matchType
+* **INT** tableID
+* **INT** handID
+* **INT** endReason
+* **BOOL** allIn
+* **INT** chipsDelta
+* **INT** finalChipBalance
+* **INT** totalPot
+* **INT** playersAtTable
+* **BOOL** viewedLegalScreen
+* **BOOL** ownPenthouse
+* **INT** betAmount1
+* **INT** betAmount2
+* **INT** winAmount
+* **BOOL** win
+* **BOOL** cheat
+* **INT** timePlayed
+* **BOOL** isHost
+* **INT** hostID
+* **INT** membership

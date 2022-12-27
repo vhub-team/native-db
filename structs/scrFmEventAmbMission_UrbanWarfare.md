@@ -1,6 +1,6 @@
 # scrFmEventAmbMission_UrbanWarfare
 
 ## Fields
-* **scrFmEventAmbientMission** d
-* **INT** v
-* **INT** w
+* **scrFmEventAmbientMission** data
+* **INT** vehicleType
+* **INT** waveReached

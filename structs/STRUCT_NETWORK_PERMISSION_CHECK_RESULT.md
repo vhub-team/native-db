@@ -1,5 +1,5 @@
 # STRUCT_NETWORK_PERMISSION_CHECK_RESULT
 
 ## Fields
-* **INT** c
-* **BOOL** i
+* **INT** checkID
+* **BOOL** isAllowed

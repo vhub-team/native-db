@@ -1,12 +1,12 @@
 # STRUCT_PICKUP_EVENT
 
 ## Fields
-* **PICKUP_INDEX** p
-* **PLAYER_INDEX** p
-* **PICKUP_TYPE** p
-* **INT** p
-* **MODEL_NAMES** p
-* **INT** p
+* **PICKUP_INDEX** pickupIndex
+* **PLAYER_INDEX** playerIndex
+* **PICKUP_TYPE** pickupType
+* **INT** pickupAmount
+* **MODEL_NAMES** pickupCustomModel
+* **INT** pickupCollected
 
 ## Notes
 This structure can be used to retrieve information from these events:

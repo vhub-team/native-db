@@ -1,5 +1,5 @@
 # scrRecoverContrabandMission
 
 ## Fields
-* **scrDefendContrabandMission** d
-* **INT** l: Whether contraband was lost, destroyed or recovered
+* **scrDefendContrabandMission** data
+* **INT** lostDestroyedOrRecovered: Whether contraband was lost, destroyed or recovered

@@ -1,4 +1,4 @@
 # STRUCT_FOLLOW_INVITE_EVENT
 
 ## Fields
-* **GAMER_HANDLE** i
+* **GAMER_HANDLE** inviter

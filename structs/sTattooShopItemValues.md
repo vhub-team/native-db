@@ -4,11 +4,11 @@
 Wrapper for new tattoo shop items data
 
 ## Fields
-* **INT** l
-* **INT** i
-* **INT** c
-* **INT** p
-* **INT** c
-* **INT** f
-* **INT** u
-* **TEXT_LABEL_31** l
+* **INT** lockHash
+* **INT** id
+* **INT** collection
+* **INT** preset
+* **INT** cost
+* **INT** facing
+* **INT** updateGroup
+* **TEXT_LABEL_31** label

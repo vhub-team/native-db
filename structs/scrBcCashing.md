@@ -1,7 +1,7 @@
 # scrBcCashing
 
 ## Fields
-* **scrBcBossChallenge** d
-* **INT** m
-* **FLOAT** f
-* **INT** w
+* **scrBcBossChallenge** data
+* **INT** machinesHacked
+* **FLOAT** failedMinigamesRatio
+* **INT** wantedLevelReached

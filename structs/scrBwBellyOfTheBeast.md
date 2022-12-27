@@ -1,8 +1,8 @@
 # scrBwBellyOfTheBeast
 
 ## Fields
-* **scrBwBossWork** d
-* **INT** l
-* **INT** v
-* **INT** p
-* **INT** d
+* **scrBwBossWork** data
+* **INT** launchedByBoss
+* **INT** vehicleType
+* **INT** pickupLocation
+* **INT** deliveryLocation

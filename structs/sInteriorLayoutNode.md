@@ -1,8 +1,8 @@
 # sInteriorLayoutNode
 
 ## Fields
-* **INT** n
-* **VECTOR** t
-* **VECTOR** r
-* **BOOL** p
-* **INT** n
+* **INT** nameHash
+* **VECTOR** translation
+* **VECTOR** rotation
+* **BOOL** purchasable
+* **INT** numberOfGroupNodes

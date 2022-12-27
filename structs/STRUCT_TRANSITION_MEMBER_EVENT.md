@@ -1,6 +1,6 @@
 # STRUCT_TRANSITION_MEMBER_EVENT
 
 ## Fields
-* **TEXT_LABEL_63** g
-* **GAMER_HANDLE** g
-* **INT** c
+* **TEXT_LABEL_63** gamerTag
+* **GAMER_HANDLE** gamer
+* **INT** characterRank

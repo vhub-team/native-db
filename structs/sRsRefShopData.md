@@ -1,6 +1,6 @@
 # sRsRefShopData
 
 ## Fields
-* **INT** n
-* **INT** p
-* **INT** d
+* **INT** name
+* **INT** price
+* **INT** description

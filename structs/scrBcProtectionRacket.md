@@ -1,9 +1,9 @@
 # scrBcProtectionRacket
 
 ## Fields
-* **scrBcBossChallenge** d
-* **INT** d: Deaths
-* **INT** c: cash bags collected
-* **INT** c: cash bags delivered
-* **INT** p: Pickup Quadrant
-* **INT** d: Delivery Quadrant
+* **scrBcBossChallenge** data
+* **INT** deaths: Deaths
+* **INT** cashBagsCollected: cash bags collected
+* **INT** cashBagsDelivered: cash bags delivered
+* **INT** pickupQuadrant: Pickup Quadrant
+* **INT** deliveryQuadrant: Delivery Quadrant

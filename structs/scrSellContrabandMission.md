@@ -1,5 +1,5 @@
 # scrSellContrabandMission
 
 ## Fields
-* **scrBuyContrabandMission** d
-* **INT** d: Drop off location
+* **scrBuyContrabandMission** data
+* **INT** dropOffLocation: Drop off location

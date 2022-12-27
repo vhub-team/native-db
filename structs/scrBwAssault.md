@@ -1,6 +1,6 @@
 # scrBwAssault
 
 ## Fields
-* **scrBwBossWork** d
-* **INT** l
-* **INT** l
+* **scrBwBossWork** data
+* **INT** launchedByBoss
+* **INT** locationSelected

@@ -1,5 +1,5 @@
 # STRUCT_SLOTMACHINEMETRICLIGHT
 
 ## Fields
-* **STRUCT_CASINOMETRICLIGHT** c
-* **INT** m
+* **STRUCT_CASINOMETRICLIGHT** casinoMetric
+* **INT** machineStyle

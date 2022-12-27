@@ -1,8 +1,8 @@
 # STRUCT_CLAN_INFO
 
 ## Fields
-* **INT** c
-* **BOOL** p
+* **INT** clanId
+* **BOOL** primary
 
 ## Notes
 Structure for getting info about crew/clan events such as:

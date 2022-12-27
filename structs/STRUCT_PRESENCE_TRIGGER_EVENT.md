@@ -1,7 +1,7 @@
 # STRUCT_PRESENCE_TRIGGER_EVENT
 
 ## Fields
-* **INT** e
-* **INT** e
-* **INT** e
-* **TEXT_LABEL_63** e
+* **INT** eventNameHash
+* **INT** eventParam1
+* **INT** eventParam2
+* **TEXT_LABEL_63** eventString

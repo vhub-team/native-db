@@ -1,4 +1,4 @@
 # STRUCT_SESSION_END_EVENT
 
 ## Fields
-* **END_REASON** n
+* **END_REASON** nEndReason

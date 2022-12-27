@@ -1,8 +1,8 @@
 # STRUCT_BAIL_EVENT
 
 ## Fields
-* **BAIL_REASON** n
-* **INT** b
+* **BAIL_REASON** nBailReason
+* **INT** bailErrorCode
 
 ## Notes
 This structure can be used to retrieve information from these events:

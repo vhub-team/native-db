@@ -4,11 +4,11 @@
 Used to read row information from a leaderboard
 
 ## Fields
-* **GAMER_HANDLE** g
-* **TEXT_LABEL_23** g
-* **Leaderboard2GroupHandle** g
-* **INT** c
-* **TEXT_LABEL_31** c: Name of the clan.
-* **TEXT_LABEL_7** c: Clan tag
-* **INT** r
-* **INT** n
+* **GAMER_HANDLE** gamerHandle
+* **TEXT_LABEL_23** gamerName
+* **Leaderboard2GroupHandle** groupSelector
+* **INT** clanId
+* **TEXT_LABEL_31** clanName: Name of the clan.
+* **TEXT_LABEL_7** clanTag: Clan tag
+* **INT** rank
+* **INT** numColumnValues

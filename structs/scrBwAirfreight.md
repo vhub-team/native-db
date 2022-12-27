@@ -1,8 +1,8 @@
 # scrBwAirfreight
 
 ## Fields
-* **scrBwBossWork** d
-* **INT** c
-* **INT** t
-* **INT** c
-* **INT** l
+* **scrBwBossWork** data
+* **INT** containerDisconnected
+* **INT** targetLocation
+* **INT** containerLocation
+* **INT** launchedByBoss

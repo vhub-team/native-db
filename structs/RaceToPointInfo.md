@@ -4,9 +4,9 @@
 Struct to send the RToP info
 
 ## Fields
-* **INT** l
-* **INT** m
-* **INT** n
-* **BOOL** r
-* **VECTOR** r
-* **VECTOR** r
+* **INT** locationHash
+* **INT** matchId
+* **INT** numPlayers
+* **BOOL** raceWon
+* **VECTOR** raceStartPos
+* **VECTOR** raceEndPos

@@ -1,4 +1,4 @@
 # LeaderboardClanIds
 
 ## Fields
-* **INT** c
+* **INT** clanId

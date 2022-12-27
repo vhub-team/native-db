@@ -1,11 +1,11 @@
 # LeaderboardReadInfo
 
 ## Fields
-* **INT** l
-* **INT** l
-* **INT** l
-* **INT** r
-* **INT** t
-* **INT** l
-* **INT** l
-* **FLOAT** l
+* **INT** leaderboardId
+* **INT** leaderboardType
+* **INT** leaderboardIndex
+* **INT** returnedRows
+* **INT** totalRows
+* **INT** localGamerRowNumber
+* **INT** localGamerRankInt
+* **FLOAT** localGamerRankFloat

@@ -4,6 +4,6 @@
 Structure to retrieve available saves for migration
 
 ## Fields
-* **BOOL** i
-* **TEXT_LABEL_63** s
-* **INT** t
+* **BOOL** inProgress
+* **TEXT_LABEL_63** state
+* **INT** transactionId

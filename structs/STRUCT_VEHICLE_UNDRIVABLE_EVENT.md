@@ -1,9 +1,9 @@
 # STRUCT_VEHICLE_UNDRIVABLE_EVENT
 
 ## Fields
-* **VEHICLE_INDEX** v
-* **ENTITY_INDEX** d
-* **INT** w
+* **VEHICLE_INDEX** vehicleId
+* **ENTITY_INDEX** damagerIndex
+* **INT** weaponUsed
 
 ## Notes
 This structure can be used to retrieve information from these events:
