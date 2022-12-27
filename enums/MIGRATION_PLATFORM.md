@@ -1,0 +1,12 @@
+# MIGRATION_PLATFORM
+
+## Summary
+Save migration available platforms
+
+## Values
+* PLATFORM_XBOX360
+* PLATFORM_XBOXONE
+* PLATFORM_PS3
+* PLATFORM_PS4
+* PLATFORM_PC
+* PLATFORM_MAX

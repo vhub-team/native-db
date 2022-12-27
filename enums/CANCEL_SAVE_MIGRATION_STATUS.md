@@ -1,0 +1,11 @@
+# CANCEL_SAVE_MIGRATION_STATUS
+
+## Summary
+Cancel Save migration error codes
+
+## Values
+* CSMS_NONE
+* CSMS_PENDING
+* CSMS_FAILED
+* CSMS_SUCCEDDED
+* CSMS_CANCELED

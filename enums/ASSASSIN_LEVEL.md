@@ -1,0 +1,6 @@
+# ASSASSIN_LEVEL
+
+## Values
+* AL_LOW = 1
+* AL_MED
+* AL_HIGH

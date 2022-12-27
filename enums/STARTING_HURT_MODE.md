@@ -1,0 +1,4 @@
+# STARTING_HURT_MODE
+
+## Values
+* SHM_ONGROUND

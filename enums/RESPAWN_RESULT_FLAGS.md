@@ -1,0 +1,6 @@
+# RESPAWN_RESULT_FLAGS
+
+## Values
+* RESPAWN_RESULT_FLAG_DEFAULT
+* RESPAWN_RESULT_FLAG_PAVEMENT: spawn point is on pavement
+* RESPAWN_RESULT_FLAG_INTERIOR: spawn point is in an interior

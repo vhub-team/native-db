@@ -1,0 +1,9 @@
+# SAVEMIGRATION_PLATFORM_GENERATION
+
+## Summary
+This structure contains the possible codes for the save migration
+
+## Values
+* SAVEMIGRATION_PLATFORM_NONE
+* SAVEMIGRATION_PLATFORM_GEN8 = 8
+* SAVEMIGRATION_PLATFORM_GEN9

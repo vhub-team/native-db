@@ -1,0 +1,9 @@
+# SHOP_ITEM_STORAGE
+
+## Summary
+Defines for item storage types
+
+## Values
+* NET_SHOP_ISTORAGE_INT
+* NET_SHOP_ISTORAGE_INT64
+* NET_SHOP_ISTORAGE_BITFIELD

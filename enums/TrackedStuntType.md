@@ -1,0 +1,11 @@
+# TrackedStuntType
+
+## Values
+* ST_FRONTFLIP
+* ST_BACKFLIP
+* ST_SPIN
+* ST_WHEELIE
+* ST_STOPPIE
+* ST_BOWLING_PIN
+* ST_FOOTBALL
+* ST_ROLL

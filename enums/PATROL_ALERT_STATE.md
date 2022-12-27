@@ -1,0 +1,5 @@
+# PATROL_ALERT_STATE
+
+## Values
+* PAS_CASUAL
+* PAS_ALERT

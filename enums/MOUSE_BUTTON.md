@@ -1,0 +1,5 @@
+# MOUSE_BUTTON
+
+## Values
+* MB_LEFT_BTN = 1
+* MB_RIGHT_BTN

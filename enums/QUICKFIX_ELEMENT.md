@@ -1,0 +1,16 @@
+# QUICKFIX_ELEMENT
+
+## Summary
+PLAYSTATS function which covers anything being given to the player using the quick fix tool
+
+## Values
+* QF_NONE
+* QF_WEAPON_GIVE
+* QF_WEAPON_REMOVE
+* QF_VEHICLE_GIVE
+* QF_VEHICLE_REMOVE
+* QF_APARTMENT_GIVE
+* QF_APARTMENT_REMOVE
+* QF_CLOTHES_GIVE
+* QF_CLOTHES_REMOVE
+* QF_PROGRESS_GIVE

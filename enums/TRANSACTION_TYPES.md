@@ -1,0 +1,9 @@
+# TRANSACTION_TYPES
+
+## Summary
+Defines for transaction type's
+
+## Values
+* NET_SHOP_TTYPE_INVALID = hash("NET_SHOP_TTYPE_INVALID")
+* NET_SHOP_TTYPE_BASKET = hash("NET_SHOP_TTYPE_BASKET")
+* NET_SHOP_TTYPE_SERVICE = hash("NET_SHOP_TTYPE_SERVICE")

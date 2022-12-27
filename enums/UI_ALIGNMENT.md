@@ -1,0 +1,8 @@
+# UI_ALIGNMENT
+
+## Values
+* UI_ALIGN_LEFT = 76: 'L'
+* UI_ALIGN_RIGHT = 82: 'R'
+* UI_ALIGN_TOP = 84: 'T'
+* UI_ALIGN_BOTTOM = 66: 'B'
+* UI_ALIGN_IGNORE = 73: 'I'

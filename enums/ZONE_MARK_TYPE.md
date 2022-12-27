@@ -1,0 +1,5 @@
+# ZONE_MARK_TYPE
+
+## Values
+* ZM_CIRCLE
+* ZM_RECTANGLE

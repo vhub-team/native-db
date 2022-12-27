@@ -1,0 +1,5 @@
+# REPEATMODE
+
+## Values
+* REPEAT_NOT
+* REPEAT_FOREVER

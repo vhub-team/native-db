@@ -1,0 +1,17 @@
+# CLOTHES_SHOP_ENUM
+
+## Summary
+Used to differentiate between the different types of clothes shops
+
+## Values
+* CLO_SHOP_LOW
+* CLO_SHOP_MID
+* CLO_SHOP_HIGH
+* CLO_SHOP_GUN_LARGE
+* CLO_SHOP_GUN_SMALL
+* CLO_SHOP_AMB
+* CLO_SHOP_CASINO
+* CLO_SHOP_CAR_MEET
+* CLO_SHOP_ARMORY_FIXER
+* CLO_SHOP_MUSIC_STUDIO
+* CLO_SHOP_NONE

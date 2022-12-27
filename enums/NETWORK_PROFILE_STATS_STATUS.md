@@ -1,0 +1,10 @@
+# NETWORK_PROFILE_STATS_STATUS
+
+## Summary
+Status returned from PROFILE STATS READ operation
+
+## Values
+* NET_PS_IDLE
+* NET_PS_PENDING
+* NET_PS_SUCCESS
+* NET_PS_FAILED
