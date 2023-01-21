@@ -10,7 +10,7 @@ Resets the movement clipset to the default for the ped type.
 The default movement clipset is defined in peds.meta under <MovementClipSet>
 DON'T FORGET to unstream the clipset if no longer needed
 
-If p1 is 0.0, I believe you are back to normal. 
+If p1 is 0.0, I believe you are back to normal.
 If p1 is 1.0, it looks like you can only rotate the ped, not walk.
 
 Using the following code to reset back to normal

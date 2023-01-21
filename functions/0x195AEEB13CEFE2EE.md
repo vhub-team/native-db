@@ -22,10 +22,10 @@ A behaviorFlag value of 0 will result in a clunky, stupid driver!
 
 Recommended settings:
 speed = 30.0f,
-behaviorFlag = 156, 
+behaviorFlag = 156,
 stoppingRange = 5.0f;
 
-If you simply want to have your driver move to a fixed location, call it only once, or, when necessary in the event of interruption. 
+If you simply want to have your driver move to a fixed location, call it only once, or, when necessary in the event of interruption.
 
 If using this to continually follow a Ped who is on foot:  You will need to run this in a tick loop.  Call it in with the Ped's updated coordinates every 20 ticks or so and you will have one hell of a smart, fast-reacting NPC driver -- provided he doesn't get stuck.  If your update frequency is too fast, the Ped may not have enough time to figure his way out of being stuck, and thus, remain stuck.  One way around this would be to implement an "anti-stuck" mechanism, which allows the driver to realize he's stuck, temporarily pause the tick, unstuck, then resume the tick.
 

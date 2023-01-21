@@ -27,7 +27,7 @@ GRAPHICS::SET_SCRIPT_GFX_DRAW_ORDER(4);
 GRAPHICS::SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU(1);
 if (GRAPHICS::IS_TVSHOW_CURRENTLY_PLAYING(${movie_arthouse})) {
     GRAPHICS::DRAW_TV_CHANNEL(0.5, 0.5, 0.7375, 1.0, 0.0, 255, 255, 255, 255);
-} else { 
+} else {
     GRAPHICS::DRAW_TV_CHANNEL(0.5, 0.5, 1.0, 1.0, 0.0, 255, 255, 255, 255);
 }
 
@@ -40,7 +40,7 @@ if (ENTITY::DOES_ENTITY_EXIST(a_2._f3)) {
         GRAPHICS::DRAW_TV_CHANNEL(0.5, 0.5, 1.0, 1.0, 0.0, 255, 255, 255, 255);
         if (GRAPHICS::GET_TV_CHANNEL() == -1) {
             sub_a8fa5(a_2, 1);
-        } else { 
+        } else {
             sub_a8fa5(a_2, 1);
             GRAPHICS::ATTACH_TV_AUDIO_TO_ENTITY(a_2._f3);
         }

@@ -3,7 +3,7 @@
 ## Parameters
 * **ENTITY_INDEX** firstEntity
 * **ENTITY_INDEX** secondEntity
-* **INT** losFlags = 16
+* **INT** losFlags = 17
 
 ## Returns
 * **BOOL**

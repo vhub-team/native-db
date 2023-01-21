@@ -23,7 +23,7 @@ After looking at some scripts the second parameter seems to be an id of some kin
 I think they're patrol routes, but I'm not sure. And I believe the 3rd parameter is a BOOL, but I can't confirm other than only seeing 0 and 1 being passed.
 
 
-As far as I can see the patrol routes names such as "miss_Ass0" have been defined earlier in the scripts. This leads me to believe we can defined our own new patrol routes by following the same approach. 
+As far as I can see the patrol routes names such as "miss_Ass0" have been defined earlier in the scripts. This leads me to believe we can defined our own new patrol routes by following the same approach.
 From the scripts
 
     TASK::OPEN_PATROL_ROUTE("miss_Ass0");
