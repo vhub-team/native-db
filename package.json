@@ -1,11 +1,11 @@
 {
-  "name": "scripts",
+  "name": "@vhub/native-db",
   "version": "1.0.0",
   "type": "module",
   "description": "",
   "main": "build.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node .scripts/build.js"
   },
   "author": "",
   "license": "ISC",
