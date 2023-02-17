@@ -9,7 +9,11 @@ async function buildFunctions() {
   const functions = await Promise.all(
     files.map(async (file) => {
       const data = await fs.readFile(new URL(file, url), 'utf-8');
-      return parser.parse(data);
+
+      return {
+        ...parser.parse(data),
+        hash: file.replace('.md', '')
+      };
     })
   )
 
