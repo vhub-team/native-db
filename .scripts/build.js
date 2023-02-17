@@ -1,4 +1,4 @@
-import { FunctionParser, EnumParser, StructParser, PrimitiveParser } from "@vhub/md-parser";
+import { FunctionParser, EnumParser, StructParser, PrimitiveParser, TypedefParser } from "@vhub/md-parser";
 import fs from 'fs/promises';
 
 async function buildFunctions() {
@@ -50,6 +50,21 @@ async function buildStructs() {
   await fs.writeFile(new URL('../dist/structs.json', import.meta.url), JSON.stringify(structs, null, 2));
 }
 
+async function buildTypedefs() {
+  const parser = new TypedefParser();
+  const url = new URL('../typedefs/', import.meta.url);
+  const files = await fs.readdir(url);
+
+  const typedefs = await Promise.all(
+    files.map(async (file) => {
+      const data = await fs.readFile(new URL(file, url), 'utf-8');
+      return parser.parse(data);
+    })
+  )
+
+  await fs.writeFile(new URL('../dist/typedefs.json', import.meta.url), JSON.stringify(typedefs, null, 2));
+}
+
 async function buildPrimitives() {
   const parser = new PrimitiveParser();
   const url = new URL('../primitives/', import.meta.url);
@@ -74,6 +89,7 @@ async function build() {
     buildFunctions(),
     buildEnums(),
     buildStructs(),
+    buildTypedefs(),
     buildPrimitives(),
   ])
 }
